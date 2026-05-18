@@ -1,0 +1,22 @@
+text,intent
+I feel lonely,emotional_support
+I feel sad,emotional_support
+I am depressed,emotional_support
+I feel anxious,emotional_support
+Can you help me relax,emotional_support
+I forgot my medicine,medication_reminder
+Remind me to take medicine,medication_reminder
+Medicine reminder please,medication_reminder
+What medicines should I take,medication_reminder
+I need doctor appointment,doctor_booking
+Book a doctor for me,doctor_booking
+I want to see a doctor,doctor_booking
+Help me book transport,transport_booking
+I need a cab,transport_booking
+Book transport for hospital,transport_booking
+Suggest healthy food,diet_suggestion
+What should I eat,diet_suggestion
+Suggest nutrition tips,diet_suggestion
+Recommend exercise,exercise_suggestion
+Suggest yoga,exercise_suggestion
+I need physical activity suggestions,exercise_suggestion
