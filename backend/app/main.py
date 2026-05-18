@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from app.routes.chat import router as chat_router
 from app.routes.speech import router as speech_router
+from app.routes.tts import router as tts_router
 
 app = FastAPI(
     title="Elderly Care NLP Chatbot",
@@ -10,6 +11,8 @@ app = FastAPI(
 app.include_router(chat_router)
 
 app.include_router(speech_router)
+
+app.include_router(tts_router)
 
 @app.get("/")
 def root():
