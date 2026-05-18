@@ -5,10 +5,13 @@ def clean_text(text: str):
 
     text = text.lower()
 
+    # Remove URLs
     text = re.sub(r'http\\S+', '', text)
 
-    text = re.sub(r'[^a-zA-Z0-9\\s]', '', text)
+    # Keep alphabets, numbers, and spaces
+    text = re.sub(r'[^a-zA-Z0-9\\s]', ' ', text)
 
+    # Remove extra spaces
     text = re.sub(r'\\s+', ' ', text).strip()
 
     return text

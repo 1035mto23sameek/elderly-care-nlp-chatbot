@@ -15,5 +15,6 @@ def chat(message: str):
         "translated_text": result["translated_text"],
         "cleaned_text": result["cleaned_text"],
         "predicted_intent": result["intent"],
+        "predicted_emotion": result["emotion"],
         "bot_response": result["response"]
     }

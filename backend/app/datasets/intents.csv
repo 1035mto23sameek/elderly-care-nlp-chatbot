@@ -20,3 +20,8 @@ Suggest nutrition tips,diet_suggestion
 Recommend exercise,exercise_suggestion
 Suggest yoga,exercise_suggestion
 I need physical activity suggestions,exercise_suggestion
+I am scared about my health,emotional_support
+I feel worried about my health,emotional_support
+I feel anxious about my condition,emotional_support
+I am mentally stressed,emotional_support
+I feel emotionally weak,emotional_support
