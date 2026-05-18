@@ -14,6 +14,7 @@ from app.services.memory_service import (
     get_last_messages
 )
 
+from app.services.knowledge_service import retrieve_knowledge
 
 def generate_response(
     message: str,
@@ -48,6 +49,10 @@ def generate_response(
     session_id,
     "user",
     cleaned_text
+    )
+
+    knowledge_response = retrieve_knowledge(
+        cleaned_text
     )
 
     # RESPONSE GENERATION
@@ -137,6 +142,11 @@ def generate_response(
         "assistant",
         response
     )
+
+    if knowledge_response:
+
+        response += " " + knowledge_response
+
     return {
         "detected_language": detected_language,
         "translated_text": translated_text,
@@ -144,5 +154,6 @@ def generate_response(
         "intent": predicted_intent,
         "emotion": predicted_emotion,
         "context": conversation_context,
+        "knowledge": knowledge_response,
         "response": response
     }

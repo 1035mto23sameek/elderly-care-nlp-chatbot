@@ -22,5 +22,6 @@ def chat(message: str, session_id: str = "default_user"):
         "predicted_intent": result["intent"],
         "predicted_emotion": result["emotion"],
         "conversation_context": result["context"],
+        "knowledge_support": result["knowledge"],
         "bot_response": result["response"]
     }
