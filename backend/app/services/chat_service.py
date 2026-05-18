@@ -9,8 +9,16 @@ from app.services.intent_service import predict_intent
 
 from app.services.emotion_service import detect_emotion
 
+from app.services.memory_service import (
+    save_message,
+    get_last_messages
+)
 
-def generate_response(message: str):
+
+def generate_response(
+    message: str,
+    session_id: str
+):
 
     # LANGUAGE DETECTION
     detected_language = detect_language(message)
@@ -24,6 +32,8 @@ def generate_response(message: str):
     # TEXT CLEANING
     cleaned_text = clean_text(translated_text)
 
+    conversation_context = get_last_messages(session_id)
+
     # INTENT PREDICTION
     intent_result = predict_intent(cleaned_text)
 
@@ -34,16 +44,31 @@ def generate_response(message: str):
 
     predicted_emotion = emotion_result["emotion"]
 
+    save_message(
+    session_id,
+    "user",
+    cleaned_text
+    )
+
     # RESPONSE GENERATION
 
     if predicted_intent == "emotional_support":
 
         if predicted_emotion == "sadness":
 
-            response = (
-                "I understand you may be feeling sad. "
-                "Would you like calming music or breathing exercises?"
-            )
+            if len(conversation_context) > 0:
+
+                response = (
+                    "I understand you still seem emotionally low. "
+                    "Would you like calming music or breathing exercises?"
+                )
+
+            else:
+
+                response = (
+                    "I understand you may be feeling sad. "
+                    "Would you like calming music or breathing exercises?"
+                )
 
         elif predicted_emotion == "fear":
 
@@ -106,11 +131,18 @@ def generate_response(message: str):
             "I am here to support you."
         )
 
+
+    save_message(
+        session_id,
+        "assistant",
+        response
+    )
     return {
         "detected_language": detected_language,
         "translated_text": translated_text,
         "cleaned_text": cleaned_text,
         "intent": predicted_intent,
         "emotion": predicted_emotion,
+        "context": conversation_context,
         "response": response
     }
