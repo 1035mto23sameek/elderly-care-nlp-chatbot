@@ -19,7 +19,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-API_URL = "http://localhost:8000/chat"
+#API_URL = "http://localhost:8000/chat"
+API_URL = "https://elderly-care-nlp-chatbot-nv9xk3mkgwkrh2kqkhaeqe.streamlit.app/"
 
 
 st.set_page_config(
