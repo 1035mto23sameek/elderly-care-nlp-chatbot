@@ -1,27 +1,3001 @@
 text,intent
-I feel lonely,emotional_support
-I feel sad,emotional_support
-I am depressed,emotional_support
-I feel anxious,emotional_support
-Can you help me relax,emotional_support
-I forgot my medicine,medication_reminder
-Remind me to take medicine,medication_reminder
-Medicine reminder please,medication_reminder
-What medicines should I take,medication_reminder
-I need doctor appointment,doctor_booking
-Book a doctor for me,doctor_booking
-I want to see a doctor,doctor_booking
-Help me book transport,transport_booking
-I need a cab,transport_booking
-Book transport for hospital,transport_booking
-Suggest healthy food,diet_suggestion
-What should I eat,diet_suggestion
-Suggest nutrition tips,diet_suggestion
-Recommend exercise,exercise_suggestion
-Suggest yoga,exercise_suggestion
-I need physical activity suggestions,exercise_suggestion
-I am scared about my health,emotional_support
-I feel worried about my health,emotional_support
-I feel anxious about my condition,emotional_support
-I am mentally stressed,emotional_support
+Please I am feeling emotionally weak because I need help,emotional_support
+Can you Please remind me to take my pills right now,medication_reminder
+Hey Book doctor appointment for me because I need help,doctor_booking
+Urgently How can I improve mobility,exercise_suggestion
+Today What foods improve energy as soon as possible,diet_suggestion
+Now I need transport assistance for me,transport_booking
+Nobody talks to me anymore right now,emotional_support
+Today When should I take insulin right now,medication_reminder
+Can you Doctor appointment book koro,doctor_booking
+Kindly Exercise suggest koro as soon as possible,exercise_suggestion
+Kindly What should I eat for good health right now,diet_suggestion
+Today Can you book cab for hospital,transport_booking
+Now I cannot sleep because of stress as soon as possible,emotional_support
+Hey Medicine khete bhule gechi because I need help,medication_reminder
+Urgently Can you help me visit a doctor please,doctor_booking
+Now How can I improve mobility right now,exercise_suggestion
+How can I improve nutrition for me,diet_suggestion
+Now Help me arrange transportation right now,transport_booking
+Urgently I feel worried about my future right now,emotional_support
+Urgently Please remind me to take my pills,medication_reminder
+Please Please help me contact a doctor because I need help,doctor_booking
+Can you Can elderly people do stretching,exercise_suggestion
+Kindly Suggest diabetic diet as soon as possible,diet_suggestion
+Today Book transport for hospital visit today,transport_booking
+Hey i am feeling scared about my condition for me,emotional_support
+Can you I forgot to take my tablets,medication_reminder
+Urgently Can you help me visit a doctor right now,doctor_booking
+Hey Recommend simple exercise for me because I need help,exercise_suggestion
+Recommend soft food for elderly for me,diet_suggestion
+Hey Can you book cab for hospital for me,transport_booking
+Today Nobody talks to me anymore for me,emotional_support
+Kindly Please remind me to take my pills because I need help,medication_reminder
+Now Please help me contact a doctor please,doctor_booking
+Mujhe exercise suggest karo,exercise_suggestion
+Please what should i eat for good health today,diet_suggestion
+Hey Can you book cab for hospital right now,transport_booking
+Can you i feel sad and alone today,emotional_support
+Please Please remind me to take my pills for me,medication_reminder
+Please help me contact a doctor please,doctor_booking
+Now Suggest yoga for elderly as soon as possible,exercise_suggestion
+How can i improve nutrition please,diet_suggestion
+Today Book transport for hospital visit for me,transport_booking
+Kindly I feel worried about my future for me,emotional_support
+Can you I need medicine reminder support because I need help,medication_reminder
+Please I want to schedule a health checkup right now,doctor_booking
+Urgently Exercise suggest koro please,exercise_suggestion
+Urgently recommend nutrition plan today,diet_suggestion
+Can you i need help reaching hospital for me,transport_booking
+Can you I feel emotionally broken please,emotional_support
+Please When should I take insulin because I need help,medication_reminder
+Urgently Can you help me visit a doctor for me,doctor_booking
+Hey How can I stay active because I need help,exercise_suggestion
+How can i improve nutrition as soon as possible,diet_suggestion
+Urgently Help me travel to doctor clinic for me,transport_booking
+Kindly I feel depressed today because I need help,emotional_support
+Can you I forgot my blood pressure medicine because I need help,medication_reminder
+Now Can you help me visit a doctor please,doctor_booking
+Today Suggest yoga for elderly please,exercise_suggestion
+Now How can I improve nutrition right now,diet_suggestion
+Kindly Help me arrange transportation today,transport_booking
+Hey I am feeling mentally exhausted as soon as possible,emotional_support
+Remind me to take my medicine please,medication_reminder
+Hey I want to schedule a health checkup for me,doctor_booking
+Urgently Recommend light exercise as soon as possible,exercise_suggestion
+Today How can I improve nutrition for me,diet_suggestion
+Please Transport arrange koro for me,transport_booking
+Can you i feel mentally exhausted today,emotional_support
+Please Mujhe medicine lena yaad dilao right now,medication_reminder
+Today I want to schedule a health checkup today,doctor_booking
+Can you Exercise suggest koro because I need help,exercise_suggestion
+Now Mujhe healthy diet chahiye because I need help,diet_suggestion
+Kindly Help me travel to doctor clinic right now,transport_booking
+Urgently I feel scared about my condition please,emotional_support
+I forgot to take my tablets today,medication_reminder
+Can you Can you help me visit a doctor as soon as possible,doctor_booking
+Urgently recommend walking exercises please,exercise_suggestion
+Can you Suggest soft food for elderly today,diet_suggestion
+Help me travel to doctor clinic today,transport_booking
+Now I am feeling emotionally weak please,emotional_support
+Hey Remind me to take my medicine,medication_reminder
+Mujhe doctor appointment chahiye right now,doctor_booking
+Recommend simple exercise for me please,exercise_suggestion
+Urgently Suggest diabetic diet,diet_suggestion
+Can you I need help reaching hospital because I need help,transport_booking
+Can you I am feeling nervous and anxious please,emotional_support
+Can you I missed my diabetes tablet today,medication_reminder
+Now I want to schedule a health checkup today,doctor_booking
+Now How can I improve mobility today,exercise_suggestion
+Hey what foods improve energy today,diet_suggestion
+Now mujhe hospital jane ke liye cab chahiye because i need help,transport_booking
+Please i am feeling emotionally down today,emotional_support
+Kindly Mujhe medicine lena yaad dilao,medication_reminder
+I want to schedule a health checkup as soon as possible,doctor_booking
+Urgently Mujhe exercise suggest karo,exercise_suggestion
+Hey mujhe healthy diet chahiye because i need help,diet_suggestion
+Hey Book transport for hospital visit please,transport_booking
+Can you I feel very unhappy today right now,emotional_support
+Kindly medicine khete bhule gechi right now,medication_reminder
+Now Mujhe exercise suggest karo because I need help,exercise_suggestion
+Can you Suggest diabetic diet because I need help,diet_suggestion
+Please i need transport assistance as soon as possible,transport_booking
+Please I cannot sleep because of stress,emotional_support
+Medicine khete bhule gechi because I need help,medication_reminder
+Doctor appointment book koro today,doctor_booking
+Can you Suggest walking exercises as soon as possible,exercise_suggestion
+Now Recommend balanced diet as soon as possible,diet_suggestion
+Please I feel depressed today right now,emotional_support
+Hey I forgot to take my tablets because I need help,medication_reminder
+Can you Book doctor appointment for me as soon as possible,doctor_booking
+Today How can I improve mobility today,exercise_suggestion
+Today How can I improve nutrition as soon as possible,diet_suggestion
+Hey I need transport assistance as soon as possible,transport_booking
+Hey I feel anxious about my health please,emotional_support
+Urgently Please remind me to take my pills for me,medication_reminder
+Please Doctor appointment book koro because I need help,doctor_booking
+Urgently Recommend simple exercise for me because I need help,exercise_suggestion
+Please What should I eat for good health right now,diet_suggestion
+Urgently Book transport for hospital visit,transport_booking
+Please I miss my family please,emotional_support
+Can you I missed my diabetes tablet right now,medication_reminder
+Urgently Mujhe exercise suggest karo right now,exercise_suggestion
+Hey Recommend diabetic diet as soon as possible,diet_suggestion
+Kindly I need transport assistance for me,transport_booking
+Hey Nobody talks to me anymore as soon as possible,emotional_support
+Urgently I missed my diabetes tablet,medication_reminder
+Now I want to schedule a health checkup for me,doctor_booking
+Can you Can elderly people do stretching for me,exercise_suggestion
+Urgently Recommend balanced diet today,diet_suggestion
+Transport arrange koro today,transport_booking
+Urgently I cannot sleep because of stress for me,emotional_support
+Please i need medicine reminder support,medication_reminder
+Can you help me visit a doctor right now,doctor_booking
+Now How can I improve mobility because I need help,exercise_suggestion
+Urgently I need help reaching hospital because I need help,transport_booking
+Can you I am feeling ignored by everyone as soon as possible,emotional_support
+Please please remind me to take my pills because i need help,medication_reminder
+Mujhe doctor appointment chahiye because I need help,doctor_booking
+Urgently can elderly people do stretching today,exercise_suggestion
+Hey Recommend balanced diet because I need help,diet_suggestion
+Hey i need transport assistance,transport_booking
+I am feeling mentally stressed because I need help,emotional_support
+I forgot to take my tablets please,medication_reminder
+Urgently Recommend simple exercise for me,exercise_suggestion
+Recommend balanced diet,diet_suggestion
+Help me travel to doctor clinic as soon as possible,transport_booking
+Hey I need someone to talk to,emotional_support
+Now Mujhe medicine lena yaad dilao because I need help,medication_reminder
+Kindly book doctor appointment for me right now,doctor_booking
+Can you recommend chair yoga for seniors right now,exercise_suggestion
+Can you Recommend nutrition plan today,diet_suggestion
+Can you Help me travel to doctor clinic,transport_booking
+I cannot sleep because of stress,emotional_support
+Hey When should I take insulin because I need help,medication_reminder
+I need a doctor consultation please,doctor_booking
+Urgently Recommend yoga for elderly as soon as possible,exercise_suggestion
+Kindly Recommend balanced diet please,diet_suggestion
+Can you book cab for hospital right now,transport_booking
+Please I feel depressed today,emotional_support
+I forgot my blood pressure medicine as soon as possible,medication_reminder
+Doctor appointment book koro,doctor_booking
+Hey Recommend light exercise today,exercise_suggestion
+Please Healthy khabar suggest koro,diet_suggestion
+Book transport for hospital visit,transport_booking
+Today I am feeling emotionally down please,emotional_support
+Can you Please remind me about medicines because I need help,medication_reminder
+Kindly Mujhe doctor appointment chahiye for me,doctor_booking
+Kindly Suggest walking exercises,exercise_suggestion
+Kindly Healthy khabar suggest koro as soon as possible,diet_suggestion
+Today transport arrange koro,transport_booking
+Now I feel sad and alone,emotional_support
+Urgently Remind me to take my medicine right now,medication_reminder
+Now Doctor appointment book koro,doctor_booking
+Please Suggest chair yoga for seniors right now,exercise_suggestion
+Can you Help me travel to doctor clinic please,transport_booking
+Can you I feel emotionally weak please,emotional_support
+Now Please remind me to take my pills right now,medication_reminder
+I need a doctor consultation right now,doctor_booking
+Hey Exercise suggest koro today,exercise_suggestion
+Today mujhe healthy diet chahiye for me,diet_suggestion
+Today Nobody talks to me anymore please,emotional_support
+Hey Please remind me to take my pills right now,medication_reminder
+Please can you help me visit a doctor as soon as possible,doctor_booking
+Kindly how can i stay active for me,exercise_suggestion
+Today Recommend diabetic diet for me,diet_suggestion
+Can you I need transport assistance today,transport_booking
+Hey I am feeling ignored by everyone right now,emotional_support
+Urgently Please remind me to take my pills today,medication_reminder
+Now I need medical consultation because I need help,doctor_booking
+Today Recommend light exercise right now,exercise_suggestion
+Today Recommend balanced diet today,diet_suggestion
+Hey I feel nervous and anxious today,emotional_support
+Now I forgot to take my tablets today,medication_reminder
+Today doctor appointment book koro please,doctor_booking
+Can you Recommend light exercise today,exercise_suggestion
+Please How can I improve nutrition right now,diet_suggestion
+Today Help me travel to doctor clinic,transport_booking
+Urgently Nobody talks to me anymore right now,emotional_support
+Please remind me about medicines please,medication_reminder
+Urgently I need a doctor consultation right now,doctor_booking
+Please How can I improve mobility right now,exercise_suggestion
+Urgently Recommend nutrition plan because I need help,diet_suggestion
+Kindly Help me arrange transportation right now,transport_booking
+Can you I feel lonely today because I need help,emotional_support
+Today Please remind me about medicines as soon as possible,medication_reminder
+Please I need a doctor consultation please,doctor_booking
+How can I stay active because I need help,exercise_suggestion
+Can you Suggest diabetic diet as soon as possible,diet_suggestion
+Urgently i need help reaching hospital for me,transport_booking
+Urgently I feel isolated please,emotional_support
+Please I forgot my blood pressure medicine today,medication_reminder
+Today I want to schedule a health checkup for me,doctor_booking
+Can you Suggest chair yoga for seniors,exercise_suggestion
+Urgently What foods improve energy for me,diet_suggestion
+Today I need help reaching hospital for me,transport_booking
+Can you I need someone to talk to today,emotional_support
+Can you Please remind me about medicines right now,medication_reminder
+Today mujhe doctor appointment chahiye because i need help,doctor_booking
+Kindly Recommend light exercise as soon as possible,exercise_suggestion
+Kindly What should I eat for good health,diet_suggestion
+Today I need help reaching hospital,transport_booking
+I feel very unhappy today because i need help,emotional_support
+Can you Please remind me to take my pills as soon as possible,medication_reminder
+Can you Doctor appointment book koro because I need help,doctor_booking
+Now Recommend simple exercise for me today,exercise_suggestion
+Recommend healthy food for elderly,diet_suggestion
+Please Help me arrange transportation today,transport_booking
+Kindly I miss my family for me,emotional_support
+Kindly Please remind me to take my pills as soon as possible,medication_reminder
+Please Mujhe doctor appointment chahiye,doctor_booking
+Now Recommend simple exercise for me as soon as possible,exercise_suggestion
+Kindly Recommend balanced diet as soon as possible,diet_suggestion
+Now Transport arrange koro please,transport_booking
+Today I need someone to talk to,emotional_support
+Can you please remind me to take my pills because i need help,medication_reminder
+Kindly Doctor appointment book koro please,doctor_booking
+Kindly Can elderly people do stretching for me,exercise_suggestion
+Please how can i improve nutrition because i need help,diet_suggestion
+Kindly Help me travel to doctor clinic please,transport_booking
+I feel anxious about my health for me,emotional_support
+Urgently I forgot to take my tablets,medication_reminder
+Suggest chair yoga for seniors,exercise_suggestion
+Hey recommend nutrition plan,diet_suggestion
+Today I need help reaching hospital right now,transport_booking
+Urgently I feel emotionally weak for me,emotional_support
+Now Please remind me about medicines for me,medication_reminder
+Please Mujhe doctor appointment chahiye today,doctor_booking
+Today Recommend light exercise please,exercise_suggestion
+Kindly Mujhe healthy diet chahiye please,diet_suggestion
+Help me arrange transportation today,transport_booking
+Kindly I feel isolated right now,emotional_support
+Hey When should I take insulin as soon as possible,medication_reminder
+Can you Please help me contact a doctor for me,doctor_booking
+Now Recommend diabetic diet please,diet_suggestion
+Please I need transport assistance today,transport_booking
+Urgently I am feeling emotionally broken because I need help,emotional_support
+Today I forgot my blood pressure medicine please,medication_reminder
+Can you help me visit a doctor because i need help,doctor_booking
+Please Suggest chair yoga for seniors as soon as possible,exercise_suggestion
+Urgently Mujhe healthy diet chahiye right now,diet_suggestion
+Hey Book transport for hospital visit as soon as possible,transport_booking
+Now I forgot to take my tablets as soon as possible,medication_reminder
+Urgently Can elderly people do stretching as soon as possible,exercise_suggestion
+Now suggest soft food for elderly please,diet_suggestion
+Now mujhe hospital jane ke liye cab chahiye as soon as possible,transport_booking
+Today I need someone to talk to right now,emotional_support
+Please remind me about medicines for me,medication_reminder
+Now Mujhe doctor appointment chahiye right now,doctor_booking
+Today Exercise suggest koro today,exercise_suggestion
+Today what foods improve energy because i need help,diet_suggestion
+Help me arrange transportation right now,transport_booking
+I feel depressed today please,emotional_support
+Hey I forgot to take my tablets for me,medication_reminder
+Can you Please help me contact a doctor,doctor_booking
+Can you Exercise suggest koro right now,exercise_suggestion
+Today Recommend nutrition plan right now,diet_suggestion
+Can you book cab for hospital for me,transport_booking
+Kindly I feel nervous and anxious right now,emotional_support
+Now i forgot to take my tablets,medication_reminder
+Can you mujhe doctor appointment chahiye today,doctor_booking
+Kindly Recommend simple exercise for me,exercise_suggestion
+Can you Recommend healthy food for elderly right now,diet_suggestion
+Today Can you book cab for hospital right now,transport_booking
+Urgently i feel nervous and anxious please,emotional_support
+Kindly Please remind me about medicines please,medication_reminder
+Please Book doctor appointment for me for me,doctor_booking
+Now Suggest walking exercises right now,exercise_suggestion
+Urgently Healthy khabar suggest koro today,diet_suggestion
+Today I am feeling isolated right now,emotional_support
+Now medicine khete bhule gechi please,medication_reminder
+I want to schedule a health checkup for me,doctor_booking
+Now How can I stay active,exercise_suggestion
+I need help reaching hospital as soon as possible,transport_booking
+Hey I feel ignored by everyone please,emotional_support
+I need medicine reminder support as soon as possible,medication_reminder
+Today doctor appointment book koro,doctor_booking
+Hey Recommend simple exercise for me as soon as possible,exercise_suggestion
+Urgently how can i improve nutrition,diet_suggestion
+Now I need transport assistance as soon as possible,transport_booking
+Hey i feel mentally stressed right now,emotional_support
+Today Please remind me about medicines,medication_reminder
+Today Can you help me visit a doctor right now,doctor_booking
+Today How can I stay active right now,exercise_suggestion
+Healthy khabar suggest koro,diet_suggestion
+Urgently Help me travel to doctor clinic,transport_booking
+I am feeling emotionally down as soon as possible,emotional_support
+Hey I need medicine reminder support because I need help,medication_reminder
+Kindly I need medical consultation,doctor_booking
+Hey Recommend light exercise for me,exercise_suggestion
+Now Suggest diabetic diet right now,diet_suggestion
+Kindly Book transport for hospital visit right now,transport_booking
+Now I feel worried about my future as soon as possible,emotional_support
+Today Please remind me to take my pills because I need help,medication_reminder
+Doctor appointment book koro please,doctor_booking
+Urgently How can I stay active because I need help,exercise_suggestion
+Urgently Mujhe healthy diet chahiye as soon as possible,diet_suggestion
+Today I miss my family today,emotional_support
+Urgently Please remind me to take my pills right now,medication_reminder
+Can you Suggest yoga for elderly today,exercise_suggestion
+Please Recommend nutrition plan right now,diet_suggestion
+I need help reaching hospital because I need help,transport_booking
+Can you Nobody talks to me anymore because I need help,emotional_support
+Kindly Remind me to take my medicine today,medication_reminder
+I need medical consultation please,doctor_booking
+Please Recommend yoga for elderly as soon as possible,exercise_suggestion
+Healthy khabar suggest koro because I need help,diet_suggestion
+Urgently I need help reaching hospital please,transport_booking
+Kindly I feel depressed today for me,emotional_support
+Kindly I missed my diabetes tablet right now,medication_reminder
+Hey Exercise suggest koro for me,exercise_suggestion
+Please Can you book cab for hospital because I need help,transport_booking
+Urgently I am feeling worried about my future because I need help,emotional_support
+Hey I need medicine reminder support please,medication_reminder
+Now Mujhe doctor appointment chahiye because I need help,doctor_booking
+Hey suggest walking exercises because i need help,exercise_suggestion
+Today Recommend soft food for elderly for me,diet_suggestion
+Kindly can you book cab for hospital please,transport_booking
+I feel isolated for me,emotional_support
+Now Please remind me about medicines today,medication_reminder
+Please Doctor appointment book koro today,doctor_booking
+Please Recommend light exercise today,exercise_suggestion
+What should i eat for good health for me,diet_suggestion
+Today Help me travel to doctor clinic today,transport_booking
+Kindly I miss my family because I need help,emotional_support
+Kindly Mujhe medicine lena yaad dilao because I need help,medication_reminder
+Doctor appointment book koro because I need help,doctor_booking
+Hey Suggest walking exercises today,exercise_suggestion
+Please What should I eat for good health,diet_suggestion
+Hey Nobody talks to me anymore because I need help,emotional_support
+Kindly Remind me to take my medicine right now,medication_reminder
+Today Mujhe doctor appointment chahiye please,doctor_booking
+Now Suggest walking exercises as soon as possible,exercise_suggestion
+Now Recommend nutrition plan right now,diet_suggestion
+Today Help me travel to doctor clinic because I need help,transport_booking
+I feel nervous and anxious please,emotional_support
+Please I forgot to take my tablets right now,medication_reminder
+Hey I need medical consultation as soon as possible,doctor_booking
+Please Recommend balanced diet,diet_suggestion
+Can you book cab for hospital please,transport_booking
+Hey I feel lonely today please,emotional_support
+Urgently Mujhe doctor appointment chahiye today,doctor_booking
+Exercise suggest koro today,exercise_suggestion
+Hey Mujhe healthy diet chahiye as soon as possible,diet_suggestion
+Please Help me arrange transportation as soon as possible,transport_booking
+Kindly I feel scared about my condition please,emotional_support
+Today I forgot to take my tablets as soon as possible,medication_reminder
+Please Suggest healthy food for elderly,diet_suggestion
+Now Book transport for hospital visit please,transport_booking
+Hey I feel lonely today right now,emotional_support
+I need medicine reminder support because I need help,medication_reminder
+Please Book doctor appointment for me right now,doctor_booking
+Now Recommend simple exercise for me,exercise_suggestion
+Kindly How can I improve nutrition please,diet_suggestion
+Now Transport arrange koro for me,transport_booking
+Urgently I feel sad and alone because I need help,emotional_support
+Can you remind me to take my medicine today,medication_reminder
+Kindly Book doctor appointment for me for me,doctor_booking
+Can you How can I improve mobility right now,exercise_suggestion
+Recommend balanced diet as soon as possible,diet_suggestion
+Kindly Book transport for hospital visit,transport_booking
+Can you I need someone to talk to as soon as possible,emotional_support
+Today Mujhe medicine lena yaad dilao today,medication_reminder
+Today i need a doctor consultation for me,doctor_booking
+Now How can I improve mobility,exercise_suggestion
+Suggest soft food for elderly please,diet_suggestion
+Urgently I miss my family please,emotional_support
+Today Mujhe medicine lena yaad dilao as soon as possible,medication_reminder
+Urgently Mujhe doctor appointment chahiye for me,doctor_booking
+Now recommend simple exercise for me for me,exercise_suggestion
+Today Recommend balanced diet,diet_suggestion
+Hey I need transport assistance right now,transport_booking
+Urgently I feel depressed today as soon as possible,emotional_support
+Urgently Mujhe medicine lena yaad dilao today,medication_reminder
+Hey Please help me contact a doctor today,doctor_booking
+Now Exercise suggest koro,exercise_suggestion
+Kindly Mujhe hospital jane ke liye cab chahiye today,transport_booking
+Hey I feel very unhappy today as soon as possible,emotional_support
+Hey I forgot my blood pressure medicine right now,medication_reminder
+Book doctor appointment for me because I need help,doctor_booking
+Now Recommend light exercise because I need help,exercise_suggestion
+Now Recommend nutrition plan,diet_suggestion
+Now Help me travel to doctor clinic right now,transport_booking
+Can you I feel nervous and anxious for me,emotional_support
+Please I need medicine reminder support right now,medication_reminder
+Now Mujhe doctor appointment chahiye for me,doctor_booking
+Hey Recommend simple exercise for me today,exercise_suggestion
+Kindly How can I improve nutrition as soon as possible,diet_suggestion
+Can you I need transport assistance,transport_booking
+Hey I feel ignored by everyone right now,emotional_support
+Today i forgot to take my tablets for me,medication_reminder
+Can you Mujhe doctor appointment chahiye because I need help,doctor_booking
+Kindly Recommend simple exercise for me right now,exercise_suggestion
+Now Suggest diabetic diet because I need help,diet_suggestion
+Hey Book transport for hospital visit today,transport_booking
+Urgently I feel isolated,emotional_support
+Today please help me contact a doctor right now,doctor_booking
+Exercise suggest koro right now,exercise_suggestion
+Can you Recommend balanced diet because I need help,diet_suggestion
+Today Help me arrange transportation because I need help,transport_booking
+Now I am feeling helpless today today,emotional_support
+Kindly Please remind me about medicines today,medication_reminder
+Today Book doctor appointment for me for me,doctor_booking
+Recommend simple exercise for me today,exercise_suggestion
+Kindly Suggest soft food for elderly for me,diet_suggestion
+Urgently Book transport for hospital visit please,transport_booking
+Can you I am feeling very unhappy today right now,emotional_support
+Please Medicine khete bhule gechi,medication_reminder
+Hey I need a doctor consultation as soon as possible,doctor_booking
+Recommend light exercise,exercise_suggestion
+Hey Help me arrange transportation,transport_booking
+Kindly I feel depressed today as soon as possible,emotional_support
+Can you Please remind me to take my pills please,medication_reminder
+Kindly Doctor appointment book koro because I need help,doctor_booking
+Now Suggest walking exercises today,exercise_suggestion
+What foods improve energy for me,diet_suggestion
+Today transport arrange koro today,transport_booking
+I miss my family because i need help,emotional_support
+Now Please remind me to take my pills please,medication_reminder
+Urgently Mujhe doctor appointment chahiye as soon as possible,doctor_booking
+Please Exercise suggest koro for me,exercise_suggestion
+Kindly What should I eat for good health today,diet_suggestion
+Urgently help me arrange transportation please,transport_booking
+Urgently I feel emotionally broken for me,emotional_support
+Urgently Mujhe medicine lena yaad dilao because I need help,medication_reminder
+Please Suggest chair yoga for seniors for me,exercise_suggestion
+Kindly What foods improve energy today,diet_suggestion
+Can you I need transport assistance as soon as possible,transport_booking
+Kindly I feel mentally stressed for me,emotional_support
+Today I forgot to take my tablets because I need help,medication_reminder
+Hey please help me contact a doctor for me,doctor_booking
+Today Mujhe exercise suggest karo today,exercise_suggestion
+Hey What should I eat for good health right now,diet_suggestion
+Please I feel scared about my condition,emotional_support
+Hey I forgot my blood pressure medicine today,medication_reminder
+Today Book doctor appointment for me as soon as possible,doctor_booking
+Kindly exercise suggest koro,exercise_suggestion
+Can you recommend balanced diet for me,diet_suggestion
+Urgently Help me travel to doctor clinic because I need help,transport_booking
+Can you I need someone to talk to because I need help,emotional_support
+Can you When should I take insulin right now,medication_reminder
+Urgently Recommend light exercise because I need help,exercise_suggestion
+Can you suggest diabetic diet today,diet_suggestion
+Can you Help me arrange transportation for me,transport_booking
+Urgently I feel emotionally broken please,emotional_support
+Please i forgot my blood pressure medicine as soon as possible,medication_reminder
+I need a doctor consultation today,doctor_booking
+Today Can elderly people do stretching please,exercise_suggestion
+Hey What should I eat for good health because I need help,diet_suggestion
+Please Can you book cab for hospital today,transport_booking
+Now Nobody talks to me anymore please,emotional_support
+Hey Can you help me visit a doctor,doctor_booking
+Urgently Suggest chair yoga for seniors,exercise_suggestion
+Today Suggest healthy food for elderly please,diet_suggestion
+Can you book cab for hospital as soon as possible,transport_booking
+Hey I am feeling isolated please,emotional_support
+Please Medicine khete bhule gechi as soon as possible,medication_reminder
+Can you Doctor appointment book koro please,doctor_booking
+Kindly Recommend yoga for elderly because I need help,exercise_suggestion
+Now How can I improve nutrition because I need help,diet_suggestion
+Kindly I need transport assistance because I need help,transport_booking
+Kindly I am feeling mentally exhausted please,emotional_support
+Can you Can you help me visit a doctor please,doctor_booking
+Today Recommend light exercise,exercise_suggestion
+Can you What should I eat for good health please,diet_suggestion
+Hey Book transport for hospital visit,transport_booking
+Now I am feeling emotionally broken right now,emotional_support
+Please Please remind me about medicines today,medication_reminder
+I need a doctor consultation for me,doctor_booking
+Kindly Suggest walking exercises please,exercise_suggestion
+Urgently What should I eat for good health,diet_suggestion
+Kindly I need help reaching hospital for me,transport_booking
+Nobody talks to me anymore for me,emotional_support
+Mujhe medicine lena yaad dilao for me,medication_reminder
+Urgently Can you help me visit a doctor as soon as possible,doctor_booking
+Hey How can I improve mobility because I need help,exercise_suggestion
+Can you Suggest healthy food for elderly as soon as possible,diet_suggestion
+Today I feel very unhappy today right now,emotional_support
+Hey medicine khete bhule gechi for me,medication_reminder
+Today Please help me contact a doctor,doctor_booking
+Hey Suggest walking exercises as soon as possible,exercise_suggestion
+Now Suggest diabetic diet as soon as possible,diet_suggestion
+Kindly I feel emotionally broken right now,emotional_support
+Urgently I forgot to take my tablets please,medication_reminder
+Today Can elderly people do stretching because I need help,exercise_suggestion
+Please Suggest healthy food for elderly please,diet_suggestion
+Can you Mujhe hospital jane ke liye cab chahiye as soon as possible,transport_booking
+Urgently I cannot sleep because of stress as soon as possible,emotional_support
+Today I forgot to take my tablets please,medication_reminder
+Hey Mujhe doctor appointment chahiye because I need help,doctor_booking
+Kindly How can I stay active please,exercise_suggestion
+Please What foods improve energy please,diet_suggestion
+Can you Can you book cab for hospital today,transport_booking
+Kindly I cannot sleep because of stress because I need help,emotional_support
+Medicine khete bhule gechi for me,medication_reminder
+Now Can elderly people do stretching today,exercise_suggestion
+Hey suggest soft food for elderly please,diet_suggestion
+Today Book transport for hospital visit as soon as possible,transport_booking
+Kindly I need someone to talk to because I need help,emotional_support
+Kindly I need medical consultation for me,doctor_booking
+Urgently recommend simple exercise for me because i need help,exercise_suggestion
+Recommend balanced diet please,diet_suggestion
+Hey I need help reaching hospital for me,transport_booking
+I miss my family,emotional_support
+Can you When should I take insulin because I need help,medication_reminder
+Kindly Mujhe doctor appointment chahiye today,doctor_booking
+Please how can i stay active please,exercise_suggestion
+Now Mujhe healthy diet chahiye,diet_suggestion
+Help me travel to doctor clinic right now,transport_booking
+Kindly Nobody talks to me anymore for me,emotional_support
+Hey please remind me about medicines,medication_reminder
+Hey I need medical consultation,doctor_booking
+How can I improve nutrition,diet_suggestion
+Can you Help me travel to doctor clinic today,transport_booking
+Can you I feel emotionally weak right now,emotional_support
+Now Medicine khete bhule gechi as soon as possible,medication_reminder
+Kindly Book doctor appointment for me as soon as possible,doctor_booking
+Please Mujhe exercise suggest karo today,exercise_suggestion
+Urgently Suggest soft food for elderly as soon as possible,diet_suggestion
+Transport arrange koro,transport_booking
+Urgently I feel mentally stressed because I need help,emotional_support
+Can you Mujhe medicine lena yaad dilao please,medication_reminder
+Today please help me contact a doctor,doctor_booking
+Now Recommend simple exercise for me please,exercise_suggestion
+Today Book transport for hospital visit because I need help,transport_booking
+Please remind me about medicines right now,medication_reminder
+Can you Doctor appointment book koro as soon as possible,doctor_booking
+Hey Suggest walking exercises because I need help,exercise_suggestion
+Please how can i improve nutrition,diet_suggestion
+Urgently I feel scared about my condition today,emotional_support
+I missed my diabetes tablet as soon as possible,medication_reminder
+Please I need a doctor consultation right now,doctor_booking
+Urgently Recommend simple exercise for me as soon as possible,exercise_suggestion
+Today Healthy khabar suggest koro,diet_suggestion
+Hey transport arrange koro please,transport_booking
+Now i am feeling emotionally down because i need help,emotional_support
+Urgently I forgot to take my tablets as soon as possible,medication_reminder
+Today I want to schedule a health checkup because I need help,doctor_booking
+Today Recommend chair yoga for seniors right now,exercise_suggestion
+Now I feel scared about my condition,emotional_support
+Can you I forgot to take my tablets today,medication_reminder
+Now How can I stay active for me,exercise_suggestion
+Now mujhe healthy diet chahiye right now,diet_suggestion
+Can you Help me arrange transportation today,transport_booking
+Please Nobody talks to me anymore today,emotional_support
+Please remind me about medicines,medication_reminder
+Now i need medical consultation today,doctor_booking
+Today Suggest walking exercises for me,exercise_suggestion
+Please Suggest healthy food for elderly because I need help,diet_suggestion
+Kindly Transport arrange koro for me,transport_booking
+Urgently Nobody talks to me anymore as soon as possible,emotional_support
+Kindly Mujhe medicine lena yaad dilao as soon as possible,medication_reminder
+Now can you help me visit a doctor for me,doctor_booking
+Kindly suggest yoga for elderly for me,exercise_suggestion
+Please Healthy khabar suggest koro right now,diet_suggestion
+Please book transport for hospital visit because i need help,transport_booking
+I am feeling depressed today because I need help,emotional_support
+Now When should I take insulin because I need help,medication_reminder
+Now Can you help me visit a doctor,doctor_booking
+Can you How can I stay active,exercise_suggestion
+Hey healthy khabar suggest koro as soon as possible,diet_suggestion
+Hey i need help reaching hospital because i need help,transport_booking
+Can you I miss my family,emotional_support
+Can you Please remind me to take my pills because I need help,medication_reminder
+Urgently Please help me contact a doctor as soon as possible,doctor_booking
+Urgently Suggest yoga for elderly as soon as possible,exercise_suggestion
+Please What should I eat for good health for me,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye right now,transport_booking
+Kindly I cannot sleep because of stress for me,emotional_support
+Mujhe medicine lena yaad dilao,medication_reminder
+Please Can you help me visit a doctor,doctor_booking
+How can I improve mobility please,exercise_suggestion
+Recommend nutrition plan today,diet_suggestion
+Today Transport arrange koro for me,transport_booking
+Hey I feel helpless today because I need help,emotional_support
+Can you I need medicine reminder support today,medication_reminder
+Kindly Suggest yoga for elderly right now,exercise_suggestion
+What should i eat for good health as soon as possible,diet_suggestion
+Now Can you book cab for hospital today,transport_booking
+I feel helpless today for me,emotional_support
+Please I forgot to take my tablets for me,medication_reminder
+Today Exercise suggest koro,exercise_suggestion
+How can i improve nutrition because i need help,diet_suggestion
+Please Can you book cab for hospital as soon as possible,transport_booking
+Today I am feeling nervous and anxious because I need help,emotional_support
+Can you Mujhe medicine lena yaad dilao as soon as possible,medication_reminder
+Hey I need medical consultation today,doctor_booking
+Please Mujhe exercise suggest karo because I need help,exercise_suggestion
+Suggest soft food for elderly because I need help,diet_suggestion
+Please Book transport for hospital visit right now,transport_booking
+Kindly i feel worried about my future because i need help,emotional_support
+Today Mujhe medicine lena yaad dilao right now,medication_reminder
+Urgently I want to schedule a health checkup today,doctor_booking
+Kindly Can elderly people do stretching today,exercise_suggestion
+Today How can I improve nutrition because I need help,diet_suggestion
+Urgently Can you book cab for hospital because I need help,transport_booking
+Today I am feeling anxious about my health because I need help,emotional_support
+Now I need medicine reminder support because I need help,medication_reminder
+Please i need medical consultation right now,doctor_booking
+Hey Recommend yoga for elderly as soon as possible,exercise_suggestion
+Kindly Healthy khabar suggest koro,diet_suggestion
+Today Book transport for hospital visit,transport_booking
+Hey I feel nervous and anxious because I need help,emotional_support
+Please When should I take insulin today,medication_reminder
+Please Mujhe doctor appointment chahiye for me,doctor_booking
+Hey Suggest chair yoga for seniors because I need help,exercise_suggestion
+Hey How can I improve nutrition,diet_suggestion
+Kindly i need transport assistance please,transport_booking
+Urgently i am feeling depressed today please,emotional_support
+Kindly i forgot to take my tablets for me,medication_reminder
+Hey Exercise suggest koro please,exercise_suggestion
+Now How can I improve nutrition for me,diet_suggestion
+Today Mujhe hospital jane ke liye cab chahiye as soon as possible,transport_booking
+Please I feel nervous and anxious for me,emotional_support
+Hey I need medicine reminder support for me,medication_reminder
+Now I need a doctor consultation as soon as possible,doctor_booking
+Can you How can I improve nutrition for me,diet_suggestion
+Can you Book transport for hospital visit please,transport_booking
+Can you I feel mentally exhausted please,emotional_support
+Can you Mujhe medicine lena yaad dilao because I need help,medication_reminder
+Can you Book doctor appointment for me for me,doctor_booking
+Hey How can I improve mobility as soon as possible,exercise_suggestion
+Please Mujhe healthy diet chahiye today,diet_suggestion
+Please I need transport assistance because I need help,transport_booking
+Urgently I am feeling scared about my condition right now,emotional_support
+Please Mujhe medicine lena yaad dilao today,medication_reminder
+Kindly Doctor appointment book koro as soon as possible,doctor_booking
+Please exercise suggest koro right now,exercise_suggestion
+Now Recommend balanced diet right now,diet_suggestion
+Hey mujhe hospital jane ke liye cab chahiye today,transport_booking
+Hey I feel anxious about my health right now,emotional_support
+Please I need medicine reminder support,medication_reminder
+Urgently I need a doctor consultation because I need help,doctor_booking
+Today suggest chair yoga for seniors as soon as possible,exercise_suggestion
+Can you Recommend balanced diet please,diet_suggestion
+Kindly Transport arrange koro right now,transport_booking
+Please I am feeling anxious about my health as soon as possible,emotional_support
+Urgently Mujhe medicine lena yaad dilao,medication_reminder
+Please help me contact a doctor today,doctor_booking
+Urgently recommend diabetic diet because i need help,diet_suggestion
+Please Book transport for hospital visit,transport_booking
+Today Please remind me about medicines today,medication_reminder
+Kindly Doctor appointment book koro today,doctor_booking
+Hey Suggest yoga for elderly,exercise_suggestion
+Kindly How can I improve nutrition today,diet_suggestion
+Help me arrange transportation as soon as possible,transport_booking
+Today I am feeling depressed today please,emotional_support
+Now medicine khete bhule gechi today,medication_reminder
+Kindly How can I stay active today,exercise_suggestion
+Urgently What should I eat for good health today,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye,transport_booking
+I am feeling mentally stressed please,emotional_support
+Kindly please remind me about medicines please,medication_reminder
+Now I want to schedule a health checkup,doctor_booking
+Hey suggest chair yoga for seniors right now,exercise_suggestion
+Kindly Recommend healthy food for elderly right now,diet_suggestion
+Please Help me arrange transportation please,transport_booking
+Please I am feeling emotionally down because I need help,emotional_support
+I missed my diabetes tablet right now,medication_reminder
+Urgently Recommend simple exercise for me please,exercise_suggestion
+Can you recommend balanced diet please,diet_suggestion
+Can you Nobody talks to me anymore for me,emotional_support
+Now Remind me to take my medicine right now,medication_reminder
+Can you How can I improve mobility today,exercise_suggestion
+Urgently What should I eat for good health right now,diet_suggestion
+Can you Book transport for hospital visit right now,transport_booking
+Now When should I take insulin right now,medication_reminder
+Now I want to schedule a health checkup right now,doctor_booking
+Recommend simple exercise for me as soon as possible,exercise_suggestion
+Kindly What foods improve energy,diet_suggestion
+Can you Help me arrange transportation please,transport_booking
+Please I am feeling emotionally down please,emotional_support
+Please I need a doctor consultation because I need help,doctor_booking
+Hey Transport arrange koro for me,transport_booking
+Kindly i am feeling emotionally down because i need help,emotional_support
+Can you Please remind me about medicines as soon as possible,medication_reminder
+Please I want to schedule a health checkup because I need help,doctor_booking
+Today Recommend simple exercise for me as soon as possible,exercise_suggestion
+Suggest diabetic diet today,diet_suggestion
+Can you I need transport assistance right now,transport_booking
+Urgently I feel depressed today because I need help,emotional_support
+Today I missed my diabetes tablet,medication_reminder
+Book doctor appointment for me for me,doctor_booking
+Hey Suggest walking exercises,exercise_suggestion
+Urgently Suggest healthy food for elderly please,diet_suggestion
+Can you Mujhe hospital jane ke liye cab chahiye right now,transport_booking
+Urgently I feel helpless today please,emotional_support
+Hey I forgot to take my tablets please,medication_reminder
+Hey i want to schedule a health checkup,doctor_booking
+Recommend light exercise right now,exercise_suggestion
+Today Suggest soft food for elderly right now,diet_suggestion
+Transport arrange koro please,transport_booking
+Kindly I feel sad and alone for me,emotional_support
+Today Remind me to take my medicine today,medication_reminder
+I need a doctor consultation as soon as possible,doctor_booking
+Can you How can I improve mobility as soon as possible,exercise_suggestion
+Hey Healthy khabar suggest koro as soon as possible,diet_suggestion
+Now I need help reaching hospital please,transport_booking
+Urgently I need someone to talk to today,emotional_support
+Can you I missed my diabetes tablet because I need help,medication_reminder
+Hey I need medical consultation please,doctor_booking
+Kindly Suggest yoga for elderly today,exercise_suggestion
+Today How can I improve nutrition,diet_suggestion
+Now Book transport for hospital visit for me,transport_booking
+Can you I feel very unhappy today today,emotional_support
+Urgently Please remind me to take my pills as soon as possible,medication_reminder
+Kindly I want to schedule a health checkup,doctor_booking
+Can you Suggest chair yoga for seniors today,exercise_suggestion
+Today Recommend nutrition plan today,diet_suggestion
+Can you I need transport assistance please,transport_booking
+Now I feel depressed today as soon as possible,emotional_support
+I need medicine reminder support today,medication_reminder
+Urgently I want to schedule a health checkup because I need help,doctor_booking
+Can you recommend light exercise for me,exercise_suggestion
+Can you What foods improve energy for me,diet_suggestion
+Urgently Help me travel to doctor clinic please,transport_booking
+Kindly I am feeling mentally stressed for me,emotional_support
+I forgot to take my tablets,medication_reminder
+Can you help me visit a doctor because I need help,doctor_booking
+Urgently recommend simple exercise for me as soon as possible,exercise_suggestion
+Today healthy khabar suggest koro today,diet_suggestion
+Today Help me arrange transportation as soon as possible,transport_booking
+Urgently I feel very unhappy today for me,emotional_support
+Today Remind me to take my medicine please,medication_reminder
+Urgently Suggest walking exercises as soon as possible,exercise_suggestion
+Can you Recommend diabetic diet please,diet_suggestion
+Urgently i need help reaching hospital because i need help,transport_booking
+Please nobody talks to me anymore please,emotional_support
+Please I forgot to take my tablets please,medication_reminder
+Urgently I need medical consultation,doctor_booking
+Today suggest yoga for elderly for me,exercise_suggestion
+Can you What foods improve energy right now,diet_suggestion
+Please Help me travel to doctor clinic for me,transport_booking
+Hey I feel ignored by everyone because I need help,emotional_support
+Please Can you help me visit a doctor because I need help,doctor_booking
+Hey How can I stay active as soon as possible,exercise_suggestion
+Now I need transport assistance,transport_booking
+Kindly I feel very unhappy today as soon as possible,emotional_support
+Today I need medicine reminder support,medication_reminder
+Kindly I need a doctor consultation today,doctor_booking
+Exercise suggest koro because I need help,exercise_suggestion
+Urgently Recommend nutrition plan for me,diet_suggestion
+Hey I need help reaching hospital right now,transport_booking
+Today Please remind me to take my pills today,medication_reminder
+Please Can you help me visit a doctor right now,doctor_booking
+Now Recommend light exercise please,exercise_suggestion
+Urgently recommend balanced diet as soon as possible,diet_suggestion
+Please i need transport assistance,transport_booking
+I am feeling emotionally weak please,emotional_support
+Urgently i forgot to take my tablets for me,medication_reminder
+I want to schedule a health checkup,doctor_booking
+Please Healthy khabar suggest koro because I need help,diet_suggestion
+Can you I need transport assistance because I need help,transport_booking
+Kindly i feel sad and alone right now,emotional_support
+Today I need medicine reminder support because I need help,medication_reminder
+Kindly Can you help me visit a doctor right now,doctor_booking
+How can I improve mobility as soon as possible,exercise_suggestion
+Hey Can you book cab for hospital today,transport_booking
+I am feeling ignored by everyone today,emotional_support
+Kindly Remind me to take my medicine as soon as possible,medication_reminder
+Kindly recommend simple exercise for me for me,exercise_suggestion
+Hey Mujhe healthy diet chahiye please,diet_suggestion
+Can you Can you book cab for hospital because I need help,transport_booking
+Can you I feel helpless today right now,emotional_support
+Can you Mujhe medicine lena yaad dilao,medication_reminder
+Now I need medical consultation,doctor_booking
+Please How can I improve mobility because I need help,exercise_suggestion
+Today Suggest healthy food for elderly right now,diet_suggestion
+Please Help me arrange transportation because I need help,transport_booking
+Can you i am feeling emotionally down please,emotional_support
+Can you Medicine khete bhule gechi today,medication_reminder
+Now I need a doctor consultation right now,doctor_booking
+Hey Suggest chair yoga for seniors today,exercise_suggestion
+Hey How can I improve nutrition please,diet_suggestion
+Please I feel emotionally broken,emotional_support
+Kindly I forgot to take my tablets today,medication_reminder
+Kindly Mujhe doctor appointment chahiye,doctor_booking
+Please i feel mentally stressed today,emotional_support
+Please Please remind me about medicines as soon as possible,medication_reminder
+Please Please help me contact a doctor for me,doctor_booking
+Can you Exercise suggest koro for me,exercise_suggestion
+Can you what foods improve energy as soon as possible,diet_suggestion
+Urgently i feel worried about my future as soon as possible,emotional_support
+Today Medicine khete bhule gechi because I need help,medication_reminder
+Urgently Suggest yoga for elderly please,exercise_suggestion
+Now What should I eat for good health right now,diet_suggestion
+Now Can you book cab for hospital please,transport_booking
+Today i am feeling emotionally down today,emotional_support
+Hey Please remind me to take my pills,medication_reminder
+Please Recommend nutrition plan,diet_suggestion
+Transport arrange koro because I need help,transport_booking
+Kindly i am feeling depressed today,emotional_support
+Urgently I need medicine reminder support right now,medication_reminder
+How can I improve mobility because I need help,exercise_suggestion
+Kindly Recommend soft food for elderly please,diet_suggestion
+Urgently Book transport for hospital visit today,transport_booking
+Can you I feel isolated please,emotional_support
+Today I forgot to take my tablets,medication_reminder
+Now Book doctor appointment for me because I need help,doctor_booking
+I feel scared about my condition please,emotional_support
+Kindly Please remind me to take my pills today,medication_reminder
+Kindly I need a doctor consultation,doctor_booking
+Now Mujhe exercise suggest karo as soon as possible,exercise_suggestion
+Suggest diabetic diet for me,diet_suggestion
+Now I feel worried about my future because I need help,emotional_support
+Now Mujhe medicine lena yaad dilao for me,medication_reminder
+Kindly can you help me visit a doctor,doctor_booking
+Kindly what should i eat for good health please,diet_suggestion
+I need help reaching hospital right now,transport_booking
+I feel isolated today,emotional_support
+Urgently I missed my diabetes tablet right now,medication_reminder
+Kindly Can you help me visit a doctor for me,doctor_booking
+Urgently How can I improve mobility as soon as possible,exercise_suggestion
+Kindly Recommend nutrition plan because I need help,diet_suggestion
+Help me arrange transportation because i need help,transport_booking
+Today I feel scared about my condition as soon as possible,emotional_support
+Now mujhe doctor appointment chahiye right now,doctor_booking
+Now Healthy khabar suggest koro right now,diet_suggestion
+Kindly Mujhe hospital jane ke liye cab chahiye right now,transport_booking
+Kindly I am feeling very unhappy today right now,emotional_support
+Now I need medical consultation for me,doctor_booking
+Hey Suggest yoga for elderly because I need help,exercise_suggestion
+Kindly Book transport for hospital visit please,transport_booking
+Please I am feeling very unhappy today because I need help,emotional_support
+Today Doctor appointment book koro right now,doctor_booking
+Can you Exercise suggest koro please,exercise_suggestion
+Kindly how can i improve nutrition right now,diet_suggestion
+Today Transport arrange koro because I need help,transport_booking
+Today I feel sad and alone today,emotional_support
+Please Please help me contact a doctor,doctor_booking
+Urgently suggest chair yoga for seniors,exercise_suggestion
+Please I need transport assistance as soon as possible,transport_booking
+Please When should I take insulin right now,medication_reminder
+Hey I want to schedule a health checkup as soon as possible,doctor_booking
+Urgently Recommend light exercise please,exercise_suggestion
+Can you How can I improve nutrition please,diet_suggestion
+Hey Transport arrange koro please,transport_booking
+Please i am feeling ignored by everyone please,emotional_support
+Please Mujhe medicine lena yaad dilao for me,medication_reminder
+Today Please help me contact a doctor as soon as possible,doctor_booking
+Can you recommend simple exercise for me,exercise_suggestion
+Hey I need help reaching hospital please,transport_booking
+Now I feel emotionally broken please,emotional_support
+Medicine khete bhule gechi today,medication_reminder
+Kindly please help me contact a doctor as soon as possible,doctor_booking
+Now Recommend light exercise,exercise_suggestion
+Kindly Can you book cab for hospital today,transport_booking
+Now I feel helpless today,emotional_support
+Kindly I missed my diabetes tablet because I need help,medication_reminder
+Can you please help me contact a doctor right now,doctor_booking
+Kindly recommend chair yoga for seniors as soon as possible,exercise_suggestion
+Now recommend balanced diet as soon as possible,diet_suggestion
+Please Help me arrange transportation,transport_booking
+I need someone to talk to please,emotional_support
+Now when should i take insulin because i need help,medication_reminder
+Now Book doctor appointment for me,doctor_booking
+Please Recommend simple exercise for me for me,exercise_suggestion
+Please Healthy khabar suggest koro please,diet_suggestion
+Now Help me travel to doctor clinic today,transport_booking
+Hey I feel mentally stressed right now,emotional_support
+Urgently please remind me about medicines,medication_reminder
+Kindly Book doctor appointment for me because I need help,doctor_booking
+Can you Can elderly people do stretching please,exercise_suggestion
+Now i need help reaching hospital as soon as possible,transport_booking
+Hey I feel very unhappy today because I need help,emotional_support
+Please medicine khete bhule gechi for me,medication_reminder
+Can you Please help me contact a doctor please,doctor_booking
+How can i stay active right now,exercise_suggestion
+Can you Suggest soft food for elderly because I need help,diet_suggestion
+Today Book transport for hospital visit right now,transport_booking
+Today I feel very unhappy today today,emotional_support
+Please Please remind me about medicines because I need help,medication_reminder
+Please doctor appointment book koro because i need help,doctor_booking
+Please how can i stay active as soon as possible,exercise_suggestion
+Urgently Healthy khabar suggest koro please,diet_suggestion
+Kindly I need transport assistance right now,transport_booking
+Urgently I feel anxious about my health,emotional_support
+Today Remind me to take my medicine for me,medication_reminder
+Now Please help me contact a doctor,doctor_booking
+Hey Can elderly people do stretching right now,exercise_suggestion
+Please What should I eat for good health please,diet_suggestion
+Now can you book cab for hospital because i need help,transport_booking
+Please I feel mentally exhausted as soon as possible,emotional_support
+Urgently I need medical consultation as soon as possible,doctor_booking
+Hey Recommend balanced diet right now,diet_suggestion
+Today i feel ignored by everyone please,emotional_support
+Can you I need medicine reminder support for me,medication_reminder
+Can you I need a doctor consultation for me,doctor_booking
+Kindly How can I improve mobility for me,exercise_suggestion
+What should I eat for good health as soon as possible,diet_suggestion
+Urgently mujhe hospital jane ke liye cab chahiye please,transport_booking
+Today I need someone to talk to for me,emotional_support
+I forgot my blood pressure medicine please,medication_reminder
+Can you How can I stay active for me,exercise_suggestion
+Please Suggest soft food for elderly today,diet_suggestion
+I feel worried about my future today,emotional_support
+Hey I forgot my blood pressure medicine for me,medication_reminder
+Today I need a doctor consultation as soon as possible,doctor_booking
+Hey Healthy khabar suggest koro please,diet_suggestion
+Now transport arrange koro for me,transport_booking
+Hey I am feeling ignored by everyone please,emotional_support
+I missed my diabetes tablet today,medication_reminder
+Can you Mujhe exercise suggest karo please,exercise_suggestion
+Kindly how can i improve nutrition because i need help,diet_suggestion
+Help me arrange transportation because I need help,transport_booking
+Kindly I am feeling sad and alone for me,emotional_support
+I forgot my blood pressure medicine right now,medication_reminder
+Can you i need a doctor consultation today,doctor_booking
+Can you Mujhe healthy diet chahiye because I need help,diet_suggestion
+Please Can you book cab for hospital right now,transport_booking
+Kindly I feel mentally exhausted because I need help,emotional_support
+Please I need medicine reminder support please,medication_reminder
+Please Can you help me visit a doctor today,doctor_booking
+Urgently How can I improve mobility today,exercise_suggestion
+Hey Recommend nutrition plan please,diet_suggestion
+Please Help me arrange transportation right now,transport_booking
+Today i am feeling scared about my condition today,emotional_support
+Kindly Recommend light exercise because I need help,exercise_suggestion
+Please Recommend nutrition plan for me,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye for me,transport_booking
+Please I feel anxious about my health today,emotional_support
+Today I forgot to take my tablets today,medication_reminder
+Today I need a doctor consultation please,doctor_booking
+Hey Mujhe exercise suggest karo for me,exercise_suggestion
+Hey recommend nutrition plan right now,diet_suggestion
+Today Can you book cab for hospital as soon as possible,transport_booking
+Urgently Nobody talks to me anymore please,emotional_support
+Hey Medicine khete bhule gechi as soon as possible,medication_reminder
+Hey Can you help me visit a doctor for me,doctor_booking
+Recommend walking exercises,exercise_suggestion
+Hey Suggest diabetic diet as soon as possible,diet_suggestion
+Please I feel worried about my future today,emotional_support
+I forgot my blood pressure medicine today,medication_reminder
+Suggest yoga for elderly because I need help,exercise_suggestion
+Please Recommend balanced diet today,diet_suggestion
+Now I miss my family because I need help,emotional_support
+Hey When should I take insulin,medication_reminder
+Today Exercise suggest koro please,exercise_suggestion
+Kindly Recommend diabetic diet as soon as possible,diet_suggestion
+Hey Can you book cab for hospital as soon as possible,transport_booking
+Please I feel depressed today for me,emotional_support
+I forgot my blood pressure medicine because I need help,medication_reminder
+Please I forgot my blood pressure medicine,medication_reminder
+How can I improve mobility today,exercise_suggestion
+Urgently Recommend nutrition plan please,diet_suggestion
+Kindly Book transport for hospital visit as soon as possible,transport_booking
+Urgently I feel anxious about my health please,emotional_support
+Urgently please help me contact a doctor as soon as possible,doctor_booking
+Can you healthy khabar suggest koro for me,diet_suggestion
+Today I need help reaching hospital please,transport_booking
+Urgently I cannot sleep because of stress today,emotional_support
+Kindly I need medicine reminder support,medication_reminder
+Hey Mujhe exercise suggest karo today,exercise_suggestion
+Hey suggest diabetic diet,diet_suggestion
+Can you I need help reaching hospital right now,transport_booking
+Please I feel worried about my future because I need help,emotional_support
+Urgently Suggest chair yoga for seniors please,exercise_suggestion
+Now I feel lonely today because I need help,emotional_support
+Kindly I need medicine reminder support please,medication_reminder
+Urgently Book doctor appointment for me,doctor_booking
+Please Suggest walking exercises,exercise_suggestion
+Please Can you book cab for hospital for me,transport_booking
+Today I am feeling emotionally down right now,emotional_support
+Can you I forgot to take my tablets as soon as possible,medication_reminder
+Please can you help me visit a doctor please,doctor_booking
+Please Can elderly people do stretching as soon as possible,exercise_suggestion
+Urgently Suggest healthy food for elderly as soon as possible,diet_suggestion
+Can you Help me arrange transportation right now,transport_booking
+Urgently I feel scared about my condition because I need help,emotional_support
+Kindly Medicine khete bhule gechi for me,medication_reminder
+Today I need medical consultation please,doctor_booking
+Can you Recommend walking exercises today,exercise_suggestion
+Suggest healthy food for elderly as soon as possible,diet_suggestion
+Kindly mujhe hospital jane ke liye cab chahiye because i need help,transport_booking
+Kindly i am feeling mentally stressed because i need help,emotional_support
+Now i forgot my blood pressure medicine because i need help,medication_reminder
+Now Please help me contact a doctor for me,doctor_booking
+Please how can i improve mobility today,exercise_suggestion
+Can you Suggest healthy food for elderly,diet_suggestion
+Kindly Can you book cab for hospital because I need help,transport_booking
+Today I am feeling depressed today as soon as possible,emotional_support
+Can you I missed my diabetes tablet for me,medication_reminder
+Urgently I want to schedule a health checkup please,doctor_booking
+Hey Recommend light exercise right now,exercise_suggestion
+Recommend nutrition plan because I need help,diet_suggestion
+Now Help me travel to doctor clinic please,transport_booking
+Can you I cannot sleep because of stress today,emotional_support
+Please When should I take insulin for me,medication_reminder
+Can you Suggest walking exercises,exercise_suggestion
+Suggest healthy food for elderly because I need help,diet_suggestion
+Can you I feel anxious about my health as soon as possible,emotional_support
+Now Doctor appointment book koro as soon as possible,doctor_booking
+Urgently Recommend chair yoga for seniors please,exercise_suggestion
+Hey Recommend soft food for elderly because I need help,diet_suggestion
+I need transport assistance because I need help,transport_booking
+Kindly i cannot sleep because of stress as soon as possible,emotional_support
+Please remind me to take my pills,medication_reminder
+Today Doctor appointment book koro,doctor_booking
+Now Suggest yoga for elderly for me,exercise_suggestion
+Please Suggest soft food for elderly for me,diet_suggestion
+I feel emotionally weak because I need help,emotional_support
+Kindly Please remind me to take my pills right now,medication_reminder
+Today i need medical consultation,doctor_booking
+Kindly Suggest yoga for elderly,exercise_suggestion
+Now Mujhe healthy diet chahiye for me,diet_suggestion
+Hey book transport for hospital visit please,transport_booking
+Urgently I miss my family for me,emotional_support
+Now i forgot to take my tablets right now,medication_reminder
+Please Please help me contact a doctor as soon as possible,doctor_booking
+Can you Suggest chair yoga for seniors because I need help,exercise_suggestion
+Kindly Mujhe healthy diet chahiye right now,diet_suggestion
+Can you I feel sad and alone because I need help,emotional_support
+Urgently Doctor appointment book koro today,doctor_booking
+How can i stay active because i need help,exercise_suggestion
+Kindly How can I improve nutrition right now,diet_suggestion
+Please I am feeling mentally exhausted right now,emotional_support
+Now when should i take insulin today,medication_reminder
+Now I want to schedule a health checkup as soon as possible,doctor_booking
+Hey how can i improve mobility today,exercise_suggestion
+Healthy khabar suggest koro today,diet_suggestion
+Please Remind me to take my medicine,medication_reminder
+Hey can elderly people do stretching for me,exercise_suggestion
+Urgently recommend balanced diet today,diet_suggestion
+Today Mujhe hospital jane ke liye cab chahiye,transport_booking
+Now I am feeling sad and alone please,emotional_support
+Today I need a doctor consultation right now,doctor_booking
+Today can elderly people do stretching today,exercise_suggestion
+Please recommend balanced diet,diet_suggestion
+Urgently Can you book cab for hospital right now,transport_booking
+Hey I feel emotionally weak,emotional_support
+Urgently When should I take insulin for me,medication_reminder
+Urgently Suggest yoga for elderly,exercise_suggestion
+Urgently Help me arrange transportation right now,transport_booking
+Today I feel nervous and anxious today,emotional_support
+Now Can elderly people do stretching,exercise_suggestion
+Hey I feel helpless today for me,emotional_support
+Now I need medical consultation right now,doctor_booking
+Can you How can I improve mobility for me,exercise_suggestion
+Suggest soft food for elderly for me,diet_suggestion
+Urgently Transport arrange koro because I need help,transport_booking
+Hey I am feeling emotionally down,emotional_support
+Kindly Mujhe medicine lena yaad dilao for me,medication_reminder
+Today i want to schedule a health checkup right now,doctor_booking
+Please I am feeling emotionally down for me,emotional_support
+Today Mujhe medicine lena yaad dilao please,medication_reminder
+Kindly Doctor appointment book koro right now,doctor_booking
+Today recommend light exercise because i need help,exercise_suggestion
+Kindly Suggest healthy food for elderly today,diet_suggestion
+Urgently Help me travel to doctor clinic as soon as possible,transport_booking
+Now I cannot sleep because of stress please,emotional_support
+Urgently Please help me contact a doctor please,doctor_booking
+Please Suggest chair yoga for seniors today,exercise_suggestion
+Can you Recommend soft food for elderly,diet_suggestion
+Urgently Can you book cab for hospital please,transport_booking
+Hey I feel helpless today right now,emotional_support
+Now please remind me about medicines for me,medication_reminder
+Please Mujhe doctor appointment chahiye as soon as possible,doctor_booking
+Can you How can I improve mobility,exercise_suggestion
+Suggest soft food for elderly because i need help,diet_suggestion
+Book transport for hospital visit as soon as possible,transport_booking
+Kindly I feel helpless today please,emotional_support
+Can you Remind me to take my medicine right now,medication_reminder
+Can you Recommend nutrition plan as soon as possible,diet_suggestion
+Kindly Transport arrange koro as soon as possible,transport_booking
+I feel very unhappy today today,emotional_support
+Today mujhe medicine lena yaad dilao right now,medication_reminder
+Can you Recommend chair yoga for seniors as soon as possible,exercise_suggestion
+Kindly Healthy khabar suggest koro please,diet_suggestion
+Urgently help me travel to doctor clinic right now,transport_booking
+Now I am feeling emotionally weak today,emotional_support
+Today when should i take insulin as soon as possible,medication_reminder
+Kindly please help me contact a doctor,doctor_booking
+Today healthy khabar suggest koro,diet_suggestion
+Can you transport arrange koro today,transport_booking
+I feel anxious about my health today,emotional_support
+Urgently i need medical consultation for me,doctor_booking
+Hey suggest yoga for elderly,exercise_suggestion
+Now Suggest diabetic diet,diet_suggestion
+I feel mentally stressed today,emotional_support
+Now I need a doctor consultation today,doctor_booking
+Urgently Recommend simple exercise for me for me,exercise_suggestion
+Mujhe doctor appointment chahiye please,doctor_booking
+Today Mujhe exercise suggest karo,exercise_suggestion
+Urgently suggest diabetic diet because i need help,diet_suggestion
+Kindly Can you book cab for hospital right now,transport_booking
+Urgently i am feeling very unhappy today please,emotional_support
+Today When should I take insulin because I need help,medication_reminder
+Can you book doctor appointment for me as soon as possible,doctor_booking
+Suggest walking exercises as soon as possible,exercise_suggestion
+Urgently How can I improve nutrition please,diet_suggestion
+Can you I feel emotionally weak,emotional_support
+Hey I forgot my blood pressure medicine as soon as possible,medication_reminder
+Can you please help me contact a doctor please,doctor_booking
+Recommend walking exercises today,exercise_suggestion
+Today Recommend soft food for elderly as soon as possible,diet_suggestion
+Hey I feel mentally exhausted please,emotional_support
+Today I forgot to take my tablets for me,medication_reminder
+Can you I need a doctor consultation as soon as possible,doctor_booking
+Now Suggest yoga for elderly,exercise_suggestion
+Please Recommend balanced diet because I need help,diet_suggestion
+Now Transport arrange koro today,transport_booking
+Today I cannot sleep because of stress for me,emotional_support
+Please Help me arrange transportation for me,transport_booking
+Now I am feeling scared about my condition right now,emotional_support
+Today please remind me to take my pills for me,medication_reminder
+Kindly recommend balanced diet because i need help,diet_suggestion
+Today Can you book cab for hospital today,transport_booking
+Can you I miss my family for me,emotional_support
+Today I forgot my blood pressure medicine because I need help,medication_reminder
+Urgently I need medical consultation right now,doctor_booking
+Now Suggest chair yoga for seniors,exercise_suggestion
+Kindly Suggest soft food for elderly because I need help,diet_suggestion
+I need help reaching hospital for me,transport_booking
+Now i am feeling emotionally weak for me,emotional_support
+Kindly Book doctor appointment for me please,doctor_booking
+Urgently how can i stay active please,exercise_suggestion
+Kindly I feel mentally stressed right now,emotional_support
+Today Please remind me about medicines for me,medication_reminder
+Can you Healthy khabar suggest koro because I need help,diet_suggestion
+Hey book transport for hospital visit,transport_booking
+Kindly I am feeling nervous and anxious for me,emotional_support
+I need medicine reminder support for me,medication_reminder
+Book doctor appointment for me,doctor_booking
+Today recommend yoga for elderly today,exercise_suggestion
+Kindly help me travel to doctor clinic for me,transport_booking
+Urgently Nobody talks to me anymore today,emotional_support
+Now When should I take insulin,medication_reminder
+I want to schedule a health checkup right now,doctor_booking
+Please suggest diabetic diet as soon as possible,diet_suggestion
+Kindly I feel isolated as soon as possible,emotional_support
+Kindly Doctor appointment book koro for me,doctor_booking
+Now How can I stay active as soon as possible,exercise_suggestion
+Hey I feel mentally exhausted right now,emotional_support
+Urgently Medicine khete bhule gechi,medication_reminder
+Today mujhe doctor appointment chahiye please,doctor_booking
+Please Can elderly people do stretching right now,exercise_suggestion
+What foods improve energy,diet_suggestion
+Today I need someone to talk to today,emotional_support
+Urgently book doctor appointment for me because i need help,doctor_booking
+Please Mujhe healthy diet chahiye as soon as possible,diet_suggestion
+I feel worried about my future please,emotional_support
+Kindly i need medicine reminder support for me,medication_reminder
+Today suggest healthy food for elderly today,diet_suggestion
+Can you Medicine khete bhule gechi right now,medication_reminder
+Can you i need medical consultation please,doctor_booking
+Urgently Mujhe healthy diet chahiye please,diet_suggestion
+I am feeling emotionally down,emotional_support
+Please remind me to take my medicine today,medication_reminder
+Can you Recommend light exercise because I need help,exercise_suggestion
+Book transport for hospital visit today,transport_booking
+Today I feel emotionally weak because I need help,emotional_support
+Kindly I want to schedule a health checkup because I need help,doctor_booking
+How can i improve mobility please,exercise_suggestion
+Kindly I am feeling lonely today for me,emotional_support
+Now Remind me to take my medicine as soon as possible,medication_reminder
+Today How can I improve mobility,exercise_suggestion
+Today What foods improve energy please,diet_suggestion
+Hey I feel isolated today,emotional_support
+Hey Mujhe medicine lena yaad dilao today,medication_reminder
+Today I need a doctor consultation for me,doctor_booking
+Today How can I improve mobility for me,exercise_suggestion
+Urgently Suggest diabetic diet because I need help,diet_suggestion
+Please can you book cab for hospital please,transport_booking
+Now I feel mentally stressed because I need help,emotional_support
+When should I take insulin please,medication_reminder
+Can you I need medical consultation for me,doctor_booking
+Now Suggest walking exercises because I need help,exercise_suggestion
+Please Recommend diabetic diet,diet_suggestion
+Today Help me arrange transportation please,transport_booking
+Can you I need medicine reminder support please,medication_reminder
+Suggest chair yoga for seniors today,exercise_suggestion
+Please Recommend balanced diet please,diet_suggestion
+Hey Help me travel to doctor clinic as soon as possible,transport_booking
+Urgently I am feeling emotionally broken right now,emotional_support
+Today Please remind me to take my pills please,medication_reminder
+I need medical consultation today,doctor_booking
+Can you Mujhe healthy diet chahiye as soon as possible,diet_suggestion
+Hey I cannot sleep because of stress because I need help,emotional_support
+Please Doctor appointment book koro,doctor_booking
+Now Mujhe exercise suggest karo,exercise_suggestion
+Kindly How can I improve nutrition,diet_suggestion
+Today I am feeling ignored by everyone,emotional_support
+Urgently Can you help me visit a doctor because I need help,doctor_booking
+Urgently how can i improve nutrition as soon as possible,diet_suggestion
+Kindly Help me arrange transportation as soon as possible,transport_booking
+I missed my diabetes tablet for me,medication_reminder
+Can you doctor appointment book koro please,doctor_booking
+How can I improve mobility for me,exercise_suggestion
+Please Mujhe hospital jane ke liye cab chahiye please,transport_booking
+Kindly I feel emotionally weak right now,emotional_support
+Kindly I missed my diabetes tablet,medication_reminder
+Kindly Please help me contact a doctor right now,doctor_booking
+Urgently recommend chair yoga for seniors please,exercise_suggestion
+Hey What foods improve energy right now,diet_suggestion
+Please I need help reaching hospital because I need help,transport_booking
+Urgently I feel emotionally broken today,emotional_support
+Can you Can you help me visit a doctor today,doctor_booking
+Urgently can elderly people do stretching because i need help,exercise_suggestion
+Hey I am feeling depressed today right now,emotional_support
+Urgently Book doctor appointment for me for me,doctor_booking
+Kindly Suggest soft food for elderly today,diet_suggestion
+Please I miss my family because I need help,emotional_support
+Hey Remind me to take my medicine today,medication_reminder
+Now i need a doctor consultation because i need help,doctor_booking
+Hey mujhe exercise suggest karo please,exercise_suggestion
+Please What foods improve energy for me,diet_suggestion
+Can you Can you book cab for hospital,transport_booking
+Now Nobody talks to me anymore right now,emotional_support
+Hey I missed my diabetes tablet right now,medication_reminder
+Today Recommend balanced diet for me,diet_suggestion
+Urgently I feel anxious about my health for me,emotional_support
+Today Please remind me about medicines please,medication_reminder
+Can you Please help me contact a doctor as soon as possible,doctor_booking
+Hey Recommend simple exercise for me right now,exercise_suggestion
+Can you Recommend balanced diet as soon as possible,diet_suggestion
+Please I need transport assistance please,transport_booking
+Please I feel isolated please,emotional_support
+Kindly medicine khete bhule gechi as soon as possible,medication_reminder
+Hey Suggest walking exercises right now,exercise_suggestion
+Now suggest diabetic diet right now,diet_suggestion
+Can you I need help reaching hospital please,transport_booking
+Can you I feel mentally stressed please,emotional_support
+Now I want to schedule a health checkup please,doctor_booking
+Urgently Recommend walking exercises,exercise_suggestion
+Now What foods improve energy please,diet_suggestion
+Kindly Help me travel to doctor clinic,transport_booking
+Can you I feel mentally exhausted,emotional_support
+Please Suggest walking exercises for me,exercise_suggestion
+Now What foods improve energy today,diet_suggestion
+Hey I feel anxious about my health,emotional_support
+Kindly suggest yoga for elderly as soon as possible,exercise_suggestion
+Kindly Recommend diabetic diet for me,diet_suggestion
+Now Help me travel to doctor clinic because I need help,transport_booking
+Now I feel isolated please,emotional_support
+Can you I need a doctor consultation because I need help,doctor_booking
+Now transport arrange koro please,transport_booking
+Kindly I feel very unhappy today right now,emotional_support
+Hey Please remind me about medicines for me,medication_reminder
+I need medical consultation because I need help,doctor_booking
+Urgently Recommend light exercise for me,exercise_suggestion
+Hey recommend balanced diet today,diet_suggestion
+Please transport arrange koro because i need help,transport_booking
+Today Mujhe doctor appointment chahiye,doctor_booking
+Please how can i improve mobility as soon as possible,exercise_suggestion
+Kindly What foods improve energy for me,diet_suggestion
+Hey I feel mentally exhausted for me,emotional_support
+Today Remind me to take my medicine,medication_reminder
+Hey Please help me contact a doctor right now,doctor_booking
+Now Exercise suggest koro today,exercise_suggestion
+Urgently What foods improve energy right now,diet_suggestion
+Kindly Book transport for hospital visit today,transport_booking
+Hey Please remind me to take my pills please,medication_reminder
+Can you I need a doctor consultation today,doctor_booking
+Hey Mujhe hospital jane ke liye cab chahiye right now,transport_booking
+Now I need someone to talk to because I need help,emotional_support
+Hey i missed my diabetes tablet as soon as possible,medication_reminder
+Can you I want to schedule a health checkup right now,doctor_booking
+Please How can I improve mobility as soon as possible,exercise_suggestion
+Today What foods improve energy,diet_suggestion
+Hey I feel scared about my condition today,emotional_support
+Today Remind me to take my medicine as soon as possible,medication_reminder
+Hey please help me contact a doctor today,doctor_booking
+Kindly Exercise suggest koro,exercise_suggestion
+Please Suggest diabetic diet,diet_suggestion
+Now I am feeling emotionally broken today,emotional_support
+Now I missed my diabetes tablet for me,medication_reminder
+Urgently Book doctor appointment for me today,doctor_booking
+Today Recommend healthy food for elderly because I need help,diet_suggestion
+Now help me arrange transportation today,transport_booking
+I feel emotionally broken please,emotional_support
+Can you Mujhe exercise suggest karo,exercise_suggestion
+Kindly I feel emotionally weak today,emotional_support
+Kindly I need medicine reminder support for me,medication_reminder
+Recommend simple exercise for me for me,exercise_suggestion
+Please help me arrange transportation right now,transport_booking
+Hey I am feeling helpless today because I need help,emotional_support
+Can you Remind me to take my medicine for me,medication_reminder
+Please I need medical consultation please,doctor_booking
+How can I stay active please,exercise_suggestion
+Hey Mujhe healthy diet chahiye because I need help,diet_suggestion
+Kindly can you book cab for hospital as soon as possible,transport_booking
+Hey I feel nervous and anxious right now,emotional_support
+Urgently I forgot my blood pressure medicine as soon as possible,medication_reminder
+Please Help me travel to doctor clinic right now,transport_booking
+Now I feel nervous and anxious for me,emotional_support
+Kindly when should i take insulin,medication_reminder
+How can I stay active for me,exercise_suggestion
+Urgently How can I improve nutrition right now,diet_suggestion
+Kindly Help me travel to doctor clinic as soon as possible,transport_booking
+Now I feel nervous and anxious today,emotional_support
+Can you Mujhe hospital jane ke liye cab chahiye because I need help,transport_booking
+Please I feel anxious about my health for me,emotional_support
+Now Remind me to take my medicine because I need help,medication_reminder
+Now I need a doctor consultation for me,doctor_booking
+Today Mujhe exercise suggest karo please,exercise_suggestion
+Kindly Can you book cab for hospital for me,transport_booking
+Now nobody talks to me anymore today,emotional_support
+Can you I missed my diabetes tablet as soon as possible,medication_reminder
+Recommend yoga for elderly right now,exercise_suggestion
+Now Help me arrange transportation as soon as possible,transport_booking
+Kindly I am feeling worried about my future today,emotional_support
+Hey When should I take insulin today,medication_reminder
+Can you I feel depressed today today,emotional_support
+Kindly i need medical consultation for me,doctor_booking
+Please Exercise suggest koro,exercise_suggestion
+Please what foods improve energy today,diet_suggestion
+Hey Help me travel to doctor clinic right now,transport_booking
+Urgently I am feeling emotionally weak because I need help,emotional_support
+Kindly I forgot my blood pressure medicine please,medication_reminder
+Can you I want to schedule a health checkup please,doctor_booking
+Now can elderly people do stretching for me,exercise_suggestion
+Urgently What foods improve energy because I need help,diet_suggestion
+Please i need help reaching hospital right now,transport_booking
+Urgently I feel emotionally broken as soon as possible,emotional_support
+Please Please remind me about medicines for me,medication_reminder
+Urgently Please help me contact a doctor right now,doctor_booking
+Today Exercise suggest koro as soon as possible,exercise_suggestion
+Today Recommend nutrition plan as soon as possible,diet_suggestion
+Hey mujhe hospital jane ke liye cab chahiye because i need help,transport_booking
+Kindly I feel emotionally weak because I need help,emotional_support
+Hey I missed my diabetes tablet because I need help,medication_reminder
+Urgently Mujhe doctor appointment chahiye because I need help,doctor_booking
+Please Can elderly people do stretching please,exercise_suggestion
+I need transport assistance today,transport_booking
+Urgently I feel anxious about my health because I need help,emotional_support
+Hey Remind me to take my medicine because I need help,medication_reminder
+Urgently Mujhe exercise suggest karo please,exercise_suggestion
+Suggest healthy food for elderly right now,diet_suggestion
+Hey I am feeling nervous and anxious as soon as possible,emotional_support
+Urgently Please remind me about medicines,medication_reminder
+Can you I want to schedule a health checkup for me,doctor_booking
+Can you exercise suggest koro because i need help,exercise_suggestion
+Hey Mujhe hospital jane ke liye cab chahiye because I need help,transport_booking
+Can you I feel nervous and anxious because I need help,emotional_support
+Hey I need medicine reminder support,medication_reminder
+Kindly I need medical consultation today,doctor_booking
+Can you Recommend chair yoga for seniors today,exercise_suggestion
+Suggest diabetic diet because I need help,diet_suggestion
+Now help me arrange transportation because i need help,transport_booking
+I feel sad and alone because I need help,emotional_support
+Please how can i improve mobility,exercise_suggestion
+Can you Mujhe healthy diet chahiye please,diet_suggestion
+Urgently Help me arrange transportation as soon as possible,transport_booking
+Can you I feel depressed today for me,emotional_support
+Kindly I need medical consultation as soon as possible,doctor_booking
+Can you mujhe exercise suggest karo today,exercise_suggestion
+Today Healthy khabar suggest koro for me,diet_suggestion
+Please I need transport assistance right now,transport_booking
+Now I feel anxious about my health please,emotional_support
+Today When should I take insulin for me,medication_reminder
+Can you doctor appointment book koro,doctor_booking
+Can you Suggest soft food for elderly for me,diet_suggestion
+Today I need transport assistance please,transport_booking
+I feel mentally exhausted because I need help,emotional_support
+Hey Please remind me about medicines today,medication_reminder
+Can you Suggest walking exercises please,exercise_suggestion
+Mujhe healthy diet chahiye please,diet_suggestion
+Urgently Help me arrange transportation today,transport_booking
+Hey i feel mentally exhausted please,emotional_support
+Now Please remind me about medicines because I need help,medication_reminder
+Kindly Exercise suggest koro for me,exercise_suggestion
+Urgently i am feeling lonely today for me,emotional_support
+Kindly Please remind me about medicines for me,medication_reminder
+Urgently can elderly people do stretching for me,exercise_suggestion
+Please I feel anxious about my health,emotional_support
+Can you i forgot my blood pressure medicine as soon as possible,medication_reminder
+Kindly doctor appointment book koro right now,doctor_booking
+Hey How can I stay active right now,exercise_suggestion
+Please what should i eat for good health right now,diet_suggestion
+Urgently I need transport assistance for me,transport_booking
+Hey I feel worried about my future as soon as possible,emotional_support
+Today I forgot my blood pressure medicine today,medication_reminder
+Hey What should I eat for good health please,diet_suggestion
+Today Help me arrange transportation today,transport_booking
+Please I feel mentally exhausted because I need help,emotional_support
+Can you i need medicine reminder support please,medication_reminder
+Kindly Book doctor appointment for me,doctor_booking
+Recommend light exercise for me,exercise_suggestion
+Urgently I need help reaching hospital today,transport_booking
+Can you I feel mentally stressed right now,emotional_support
+Kindly Mujhe medicine lena yaad dilao today,medication_reminder
+Please Suggest yoga for elderly because I need help,exercise_suggestion
+Now Can you book cab for hospital,transport_booking
+I am feeling nervous and anxious for me,emotional_support
+Now Mujhe medicine lena yaad dilao please,medication_reminder
+Hey Please help me contact a doctor because I need help,doctor_booking
+Kindly Recommend simple exercise for me today,exercise_suggestion
+Now Recommend balanced diet for me,diet_suggestion
+Urgently i feel mentally exhausted as soon as possible,emotional_support
+Kindly How can I improve nutrition because I need help,diet_suggestion
+Hey book transport for hospital visit for me,transport_booking
+Please I cannot sleep because of stress please,emotional_support
+Can you Medicine khete bhule gechi,medication_reminder
+Now Please help me contact a doctor as soon as possible,doctor_booking
+Can you Recommend balanced diet for me,diet_suggestion
+Please I am feeling ignored by everyone because I need help,emotional_support
+Now i forgot to take my tablets for me,medication_reminder
+Hey Exercise suggest koro right now,exercise_suggestion
+Hey what foods improve energy for me,diet_suggestion
+Today Help me arrange transportation,transport_booking
+Kindly I cannot sleep because of stress right now,emotional_support
+Now I missed my diabetes tablet,medication_reminder
+Kindly Recommend light exercise right now,exercise_suggestion
+Please I need someone to talk to because I need help,emotional_support
+Kindly Medicine khete bhule gechi please,medication_reminder
+Now i want to schedule a health checkup,doctor_booking
+Please can elderly people do stretching because i need help,exercise_suggestion
+I need transport assistance,transport_booking
+Please i am feeling very unhappy today today,emotional_support
+Now Mujhe medicine lena yaad dilao as soon as possible,medication_reminder
+Please Doctor appointment book koro please,doctor_booking
+Today Recommend light exercise as soon as possible,exercise_suggestion
+Urgently recommend nutrition plan for me,diet_suggestion
+Hey help me arrange transportation,transport_booking
+Hey I feel mentally stressed for me,emotional_support
+Now Please help me contact a doctor right now,doctor_booking
+Urgently Suggest walking exercises today,exercise_suggestion
+Hey Recommend nutrition plan because I need help,diet_suggestion
+Today Transport arrange koro right now,transport_booking
+Today I feel emotionally broken because I need help,emotional_support
+Can you Mujhe healthy diet chahiye for me,diet_suggestion
+Hey I feel worried about my future for me,emotional_support
+Now I forgot my blood pressure medicine because I need help,medication_reminder
+Please I want to schedule a health checkup,doctor_booking
+Please Recommend balanced diet as soon as possible,diet_suggestion
+Please i feel nervous and anxious as soon as possible,emotional_support
+Urgently mujhe medicine lena yaad dilao as soon as possible,medication_reminder
+Can you suggest chair yoga for seniors,exercise_suggestion
+Hey Help me travel to doctor clinic please,transport_booking
+Please I feel nervous and anxious because I need help,emotional_support
+Please I forgot my blood pressure medicine as soon as possible,medication_reminder
+Urgently I need medical consultation because I need help,doctor_booking
+Today Can elderly people do stretching,exercise_suggestion
+What foods improve energy because I need help,diet_suggestion
+Urgently i need help reaching hospital as soon as possible,transport_booking
+Can you I feel scared about my condition as soon as possible,emotional_support
+Can you i missed my diabetes tablet for me,medication_reminder
+Can you i feel helpless today please,emotional_support
+Now Can elderly people do stretching right now,exercise_suggestion
+Hey Transport arrange koro today,transport_booking
+Now I feel worried about my future for me,emotional_support
+Urgently I need a doctor consultation please,doctor_booking
+Kindly Suggest diabetic diet,diet_suggestion
+Hey I feel scared about my condition please,emotional_support
+Please suggest chair yoga for seniors today,exercise_suggestion
+Urgently Suggest healthy food for elderly,diet_suggestion
+Urgently i feel emotionally broken because i need help,emotional_support
+Urgently Medicine khete bhule gechi because I need help,medication_reminder
+Can you please help me contact a doctor as soon as possible,doctor_booking
+Hey mujhe exercise suggest karo because i need help,exercise_suggestion
+Can you Help me travel to doctor clinic as soon as possible,transport_booking
+Kindly I feel ignored by everyone as soon as possible,emotional_support
+Now I need medicine reminder support as soon as possible,medication_reminder
+Can you Mujhe doctor appointment chahiye today,doctor_booking
+Urgently Exercise suggest koro for me,exercise_suggestion
+Kindly Suggest soft food for elderly right now,diet_suggestion
+Transport arrange koro as soon as possible,transport_booking
+Today mujhe medicine lena yaad dilao because i need help,medication_reminder
+Can you Mujhe exercise suggest karo as soon as possible,exercise_suggestion
+Urgently Transport arrange koro please,transport_booking
+Kindly I feel helpless today because I need help,emotional_support
+Urgently I missed my diabetes tablet as soon as possible,medication_reminder
+Now can you help me visit a doctor,doctor_booking
+Today Suggest chair yoga for seniors right now,exercise_suggestion
+What foods improve energy today,diet_suggestion
+Today I feel sad and alone please,emotional_support
+Now Remind me to take my medicine please,medication_reminder
+Can you Exercise suggest koro,exercise_suggestion
+Can you Suggest healthy food for elderly because I need help,diet_suggestion
+Urgently i feel mentally stressed because i need help,emotional_support
+Hey I need a doctor consultation please,doctor_booking
+Please Mujhe exercise suggest karo for me,exercise_suggestion
+Now I need transport assistance please,transport_booking
+Kindly I feel sad and alone right now,emotional_support
+Urgently When should I take insulin because I need help,medication_reminder
+Now Doctor appointment book koro today,doctor_booking
+Kindly Mujhe exercise suggest karo for me,exercise_suggestion
+Urgently Recommend balanced diet for me,diet_suggestion
+Today Book transport for hospital visit please,transport_booking
+Today I feel anxious about my health right now,emotional_support
+Kindly Transport arrange koro because I need help,transport_booking
+Now I am feeling emotionally down for me,emotional_support
+Can you I forgot my blood pressure medicine today,medication_reminder
+Please Recommend light exercise right now,exercise_suggestion
+Today Recommend soft food for elderly right now,diet_suggestion
+Urgently I feel isolated today,emotional_support
+Now please remind me about medicines,medication_reminder
+Can you book doctor appointment for me please,doctor_booking
+How can I improve nutrition please,diet_suggestion
+Today Mujhe hospital jane ke liye cab chahiye right now,transport_booking
+Now i feel ignored by everyone because i need help,emotional_support
+Please Mujhe doctor appointment chahiye please,doctor_booking
+Today Mujhe exercise suggest karo for me,exercise_suggestion
+Please I feel lonely today as soon as possible,emotional_support
+Kindly Remind me to take my medicine please,medication_reminder
+Hey Book doctor appointment for me today,doctor_booking
+Today Suggest yoga for elderly for me,exercise_suggestion
+What should i eat for good health please,diet_suggestion
+Please I am feeling sad and alone for me,emotional_support
+Today suggest diabetic diet today,diet_suggestion
+Please I am feeling helpless today,emotional_support
+Please I forgot my blood pressure medicine please,medication_reminder
+Urgently i want to schedule a health checkup please,doctor_booking
+Can you Recommend light exercise as soon as possible,exercise_suggestion
+Hey Mujhe healthy diet chahiye today,diet_suggestion
+Hey Transport arrange koro right now,transport_booking
+Please I feel emotionally weak as soon as possible,emotional_support
+Can you When should I take insulin please,medication_reminder
+Hey doctor appointment book koro for me,doctor_booking
+Suggest walking exercises because i need help,exercise_suggestion
+I need someone to talk to for me,emotional_support
+Please Please remind me to take my pills because I need help,medication_reminder
+Today Book doctor appointment for me,doctor_booking
+Today Suggest yoga for elderly because I need help,exercise_suggestion
+Can you Suggest healthy food for elderly right now,diet_suggestion
+Now I need help reaching hospital right now,transport_booking
+I need someone to talk to because I need help,emotional_support
+Please I need medical consultation right now,doctor_booking
+Please How can I improve mobility for me,exercise_suggestion
+Mujhe hospital jane ke liye cab chahiye because i need help,transport_booking
+Urgently I miss my family right now,emotional_support
+Urgently When should I take insulin as soon as possible,medication_reminder
+Please Can you help me visit a doctor please,doctor_booking
+Today Suggest chair yoga for seniors for me,exercise_suggestion
+Urgently Healthy khabar suggest koro for me,diet_suggestion
+Hey book transport for hospital visit as soon as possible,transport_booking
+Hey I miss my family please,emotional_support
+Can you mujhe medicine lena yaad dilao because i need help,medication_reminder
+Today Mujhe doctor appointment chahiye today,doctor_booking
+Please How can I stay active please,exercise_suggestion
+Please Recommend balanced diet for me,diet_suggestion
+Hey Mujhe hospital jane ke liye cab chahiye today,transport_booking
+Can you I need someone to talk to for me,emotional_support
+Now I need medicine reminder support right now,medication_reminder
+Urgently How can I improve mobility please,exercise_suggestion
+Recommend diabetic diet as soon as possible,diet_suggestion
+Today Help me travel to doctor clinic for me,transport_booking
+Hey I feel very unhappy today today,emotional_support
+Hey Please remind me about medicines,medication_reminder
+Urgently Doctor appointment book koro as soon as possible,doctor_booking
+Can elderly people do stretching because I need help,exercise_suggestion
+Please Suggest soft food for elderly please,diet_suggestion
+Can you i need help reaching hospital please,transport_booking
+Can you I feel anxious about my health please,emotional_support
+Today I need a doctor consultation,doctor_booking
+Can you Suggest yoga for elderly because I need help,exercise_suggestion
+Now Suggest soft food for elderly as soon as possible,diet_suggestion
+Hey Suggest yoga for elderly today,exercise_suggestion
+Today What should I eat for good health as soon as possible,diet_suggestion
+Kindly Can you book cab for hospital as soon as possible,transport_booking
+Hey I am feeling emotionally weak because I need help,emotional_support
+Kindly Please remind me to take my pills for me,medication_reminder
+Please I want to schedule a health checkup today,doctor_booking
+Can you what should i eat for good health today,diet_suggestion
+Urgently Help me arrange transportation because I need help,transport_booking
+Can you I am feeling sad and alone as soon as possible,emotional_support
+Please Suggest yoga for elderly please,exercise_suggestion
+Urgently Suggest diabetic diet today,diet_suggestion
+Kindly Transport arrange koro please,transport_booking
+Please I am feeling isolated today,emotional_support
+Urgently Suggest walking exercises because I need help,exercise_suggestion
+Mujhe healthy diet chahiye as soon as possible,diet_suggestion
+Now transport arrange koro today,transport_booking
+Today I am feeling ignored by everyone because I need help,emotional_support
+I forgot to take my tablets right now,medication_reminder
+Healthy khabar suggest koro because i need help,diet_suggestion
+Today I feel emotionally weak please,emotional_support
+Today Mujhe healthy diet chahiye today,diet_suggestion
+Please I am feeling very unhappy today please,emotional_support
+Please I missed my diabetes tablet as soon as possible,medication_reminder
+Kindly i need medical consultation,doctor_booking
+Now Recommend light exercise for me,exercise_suggestion
+Can you Recommend nutrition plan because I need help,diet_suggestion
+Today Transport arrange koro today,transport_booking
+Can you I feel isolated as soon as possible,emotional_support
+Can you Recommend simple exercise for me today,exercise_suggestion
+Hey I am feeling helpless today for me,emotional_support
+Urgently Suggest yoga for elderly because I need help,exercise_suggestion
+Today Suggest soft food for elderly because I need help,diet_suggestion
+Can you i am feeling anxious about my health please,emotional_support
+Mujhe medicine lena yaad dilao please,medication_reminder
+Hey Healthy khabar suggest koro,diet_suggestion
+Hey i want to schedule a health checkup because i need help,doctor_booking
+How can I improve mobility right now,exercise_suggestion
+Today Recommend diabetic diet because I need help,diet_suggestion
+Hey I feel nervous and anxious for me,emotional_support
+Urgently Please remind me about medicines right now,medication_reminder
+Today I need medical consultation right now,doctor_booking
+Kindly What should I eat for good health please,diet_suggestion
+Can you I feel scared about my condition please,emotional_support
+Today i forgot to take my tablets as soon as possible,medication_reminder
+Now Mujhe hospital jane ke liye cab chahiye please,transport_booking
+Now i am feeling isolated as soon as possible,emotional_support
+Today I forgot to take my tablets right now,medication_reminder
+Urgently mujhe doctor appointment chahiye right now,doctor_booking
+How can I stay active today,exercise_suggestion
+I need help reaching hospital please,transport_booking
+Please I am feeling emotionally weak as soon as possible,emotional_support
+Kindly please remind me about medicines for me,medication_reminder
+Kindly I miss my family today,emotional_support
+Kindly mujhe medicine lena yaad dilao because i need help,medication_reminder
+Today Doctor appointment book koro for me,doctor_booking
+Hey Book transport for hospital visit because I need help,transport_booking
+Urgently I feel sad and alone,emotional_support
+Urgently Please remind me about medicines for me,medication_reminder
+Now Mujhe doctor appointment chahiye please,doctor_booking
+Today Mujhe healthy diet chahiye,diet_suggestion
+Today I feel mentally exhausted because I need help,emotional_support
+Please Doctor appointment book koro for me,doctor_booking
+Today Suggest chair yoga for seniors as soon as possible,exercise_suggestion
+Today I need help reaching hospital as soon as possible,transport_booking
+Kindly I feel scared about my condition today,emotional_support
+I need medicine reminder support right now,medication_reminder
+Now What foods improve energy,diet_suggestion
+Kindly i feel isolated please,emotional_support
+Urgently I forgot my blood pressure medicine,medication_reminder
+Can you help me visit a doctor for me,doctor_booking
+Can you how can i stay active please,exercise_suggestion
+Kindly suggest diabetic diet because i need help,diet_suggestion
+Today Help me arrange transportation for me,transport_booking
+Now I feel very unhappy today,emotional_support
+Now Doctor appointment book koro right now,doctor_booking
+Please How can I improve mobility please,exercise_suggestion
+Today Mujhe healthy diet chahiye right now,diet_suggestion
+Hey I need transport assistance please,transport_booking
+Can you I need medical consultation today,doctor_booking
+Please Mujhe exercise suggest karo please,exercise_suggestion
+Today I feel ignored by everyone,emotional_support
+Kindly I need a doctor consultation for me,doctor_booking
+Suggest walking exercises today,exercise_suggestion
+Suggest soft food for elderly as soon as possible,diet_suggestion
+Urgently I feel anxious about my health as soon as possible,emotional_support
+Can you Remind me to take my medicine as soon as possible,medication_reminder
+Can you Can you help me visit a doctor right now,doctor_booking
+Urgently Mujhe exercise suggest karo as soon as possible,exercise_suggestion
+How can i improve nutrition for me,diet_suggestion
+Now I need transport assistance right now,transport_booking
+Now I am feeling scared about my condition today,emotional_support
+Now I forgot my blood pressure medicine for me,medication_reminder
+Please I want to schedule a health checkup as soon as possible,doctor_booking
+Kindly How can I stay active as soon as possible,exercise_suggestion
+Urgently Recommend nutrition plan as soon as possible,diet_suggestion
+Hey i am feeling emotionally weak please,emotional_support
+When should I take insulin right now,medication_reminder
+Recommend chair yoga for seniors please,exercise_suggestion
+Please What foods improve energy because I need help,diet_suggestion
+Can you Mujhe hospital jane ke liye cab chahiye please,transport_booking
+I cannot sleep because of stress because I need help,emotional_support
+Today i need medicine reminder support right now,medication_reminder
+Kindly Recommend nutrition plan,diet_suggestion
+Can you I feel emotionally broken because I need help,emotional_support
+Now Medicine khete bhule gechi please,medication_reminder
+Kindly Please help me contact a doctor,doctor_booking
+Can you I am feeling very unhappy today as soon as possible,emotional_support
+Hey Mujhe medicine lena yaad dilao,medication_reminder
+Kindly I want to schedule a health checkup today,doctor_booking
+Today I need transport assistance,transport_booking
+Now I forgot to take my tablets for me,medication_reminder
+Please I need a doctor consultation today,doctor_booking
+Please Mujhe exercise suggest karo as soon as possible,exercise_suggestion
+Now Recommend soft food for elderly,diet_suggestion
+Kindly I need transport assistance as soon as possible,transport_booking
+Hey i am feeling very unhappy today as soon as possible,emotional_support
+Hey I forgot to take my tablets,medication_reminder
+Urgently please help me contact a doctor right now,doctor_booking
+Urgently Healthy khabar suggest koro because I need help,diet_suggestion
+Urgently i need help reaching hospital please,transport_booking
+Now I feel scared about my condition as soon as possible,emotional_support
+Kindly When should I take insulin right now,medication_reminder
+I need medical consultation right now,doctor_booking
+Today How can I improve mobility right now,exercise_suggestion
+Recommend nutrition plan please,diet_suggestion
+Hey I feel emotionally weak as soon as possible,emotional_support
+Can you Recommend simple exercise for me,exercise_suggestion
+Kindly Healthy khabar suggest koro because I need help,diet_suggestion
+Hey I need a doctor consultation today,doctor_booking
+What should I eat for good health,diet_suggestion
+Please I need help reaching hospital as soon as possible,transport_booking
+Can you Healthy khabar suggest koro,diet_suggestion
+Today I feel scared about my condition,emotional_support
+Hey I need medicine reminder support right now,medication_reminder
+Recommend simple exercise for me because I need help,exercise_suggestion
+Now I feel mentally exhausted,emotional_support
+Today Mujhe medicine lena yaad dilao because I need help,medication_reminder
+Hey Book doctor appointment for me please,doctor_booking
+Today Suggest yoga for elderly today,exercise_suggestion
+Hey suggest diabetic diet right now,diet_suggestion
+Now Nobody talks to me anymore because I need help,emotional_support
+Now I need medicine reminder support for me,medication_reminder
+Mujhe doctor appointment chahiye as soon as possible,doctor_booking
+Can you Suggest diabetic diet today,diet_suggestion
+Urgently transport arrange koro because i need help,transport_booking
+Today I cannot sleep because of stress,emotional_support
+Hey I forgot to take my tablets today,medication_reminder
+Urgently doctor appointment book koro right now,doctor_booking
+Now Mujhe exercise suggest karo today,exercise_suggestion
+Today Suggest healthy food for elderly for me,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye as soon as possible,transport_booking
+Urgently I need medical consultation today,doctor_booking
+Please What foods improve energy today,diet_suggestion
+Please Book transport for hospital visit please,transport_booking
+Today I feel helpless today right now,emotional_support
+Kindly Recommend yoga for elderly right now,exercise_suggestion
+Hey Suggest diabetic diet please,diet_suggestion
+Today Can you book cab for hospital for me,transport_booking
+Please I need someone to talk to today,emotional_support
+Remind me to take my medicine today,medication_reminder
+Can you I need a doctor consultation please,doctor_booking
+Hey Can elderly people do stretching for me,exercise_suggestion
+Now Mujhe healthy diet chahiye please,diet_suggestion
+Urgently i need help reaching hospital right now,transport_booking
+Now I am feeling mentally exhausted,emotional_support
+Now I forgot my blood pressure medicine,medication_reminder
+I need medical consultation for me,doctor_booking
+Please exercise suggest koro please,exercise_suggestion
+Kindly how can i improve nutrition please,diet_suggestion
+Urgently Can you book cab for hospital as soon as possible,transport_booking
+Kindly I feel anxious about my health because I need help,emotional_support
+Kindly I forgot my blood pressure medicine for me,medication_reminder
+Can you Help me travel to doctor clinic for me,transport_booking
+I forgot to take my tablets as soon as possible,medication_reminder
+Kindly suggest walking exercises,exercise_suggestion
+Now What should I eat for good health as soon as possible,diet_suggestion
+Urgently I feel worried about my future,emotional_support
+Please please remind me about medicines because i need help,medication_reminder
+Kindly I want to schedule a health checkup for me,doctor_booking
+Now Can elderly people do stretching as soon as possible,exercise_suggestion
+Now Suggest diabetic diet today,diet_suggestion
+Kindly I cannot sleep because of stress as soon as possible,emotional_support
+Can you I forgot to take my tablets because I need help,medication_reminder
+Now mujhe doctor appointment chahiye because i need help,doctor_booking
+Can you Suggest chair yoga for seniors for me,exercise_suggestion
+Now Help me arrange transportation,transport_booking
+Please I feel sad and alone please,emotional_support
+Please Please remind me about medicines,medication_reminder
+Today Can you help me visit a doctor please,doctor_booking
+Hey How can I improve mobility,exercise_suggestion
+Now Recommend balanced diet,diet_suggestion
+Urgently Help me travel to doctor clinic today,transport_booking
+Urgently Please remind me to take my pills please,medication_reminder
+Now Book doctor appointment for me please,doctor_booking
+Now Suggest walking exercises,exercise_suggestion
+Today suggest diabetic diet for me,diet_suggestion
+Can you Help me travel to doctor clinic because I need help,transport_booking
+Kindly I am feeling ignored by everyone because I need help,emotional_support
+Urgently Please help me contact a doctor,doctor_booking
+Urgently Doctor appointment book koro because I need help,doctor_booking
+Hey Suggest soft food for elderly right now,diet_suggestion
+Can you i am feeling emotionally down right now,emotional_support
+Can you I forgot my blood pressure medicine,medication_reminder
+Hey Suggest healthy food for elderly right now,diet_suggestion
+Now Transport arrange koro,transport_booking
+Today I feel emotionally broken as soon as possible,emotional_support
+Hey Can you help me visit a doctor right now,doctor_booking
+Urgently Mujhe hospital jane ke liye cab chahiye for me,transport_booking
+I am feeling emotionally down because I need help,emotional_support
+Today Can you help me visit a doctor for me,doctor_booking
+Hey What should I eat for good health for me,diet_suggestion
+Can you I need someone to talk to,emotional_support
+Can you when should i take insulin as soon as possible,medication_reminder
+Hey suggest walking exercises today,exercise_suggestion
+Urgently I need someone to talk to because I need help,emotional_support
+Kindly Suggest walking exercises for me,exercise_suggestion
+Today Suggest soft food for elderly for me,diet_suggestion
+Now I feel very unhappy today for me,emotional_support
+Please please remind me to take my pills as soon as possible,medication_reminder
+Suggest yoga for elderly today,exercise_suggestion
+Suggest diabetic diet as soon as possible,diet_suggestion
+Please I feel lonely today because I need help,emotional_support
+Can you I forgot my blood pressure medicine right now,medication_reminder
+Kindly can you help me visit a doctor for me,doctor_booking
+Now What foods improve energy because I need help,diet_suggestion
+Today Transport arrange koro please,transport_booking
+Urgently I am feeling anxious about my health today,emotional_support
+Today i forgot my blood pressure medicine today,medication_reminder
+Please Book doctor appointment for me because I need help,doctor_booking
+Kindly I need help reaching hospital right now,transport_booking
+Today I am feeling mentally stressed right now,emotional_support
+Kindly please remind me about medicines,medication_reminder
+Urgently I need a doctor consultation as soon as possible,doctor_booking
+Can you Can elderly people do stretching today,exercise_suggestion
+Mujhe healthy diet chahiye because I need help,diet_suggestion
+Hey I feel very unhappy today,emotional_support
+Mujhe healthy diet chahiye right now,diet_suggestion
+Please transport arrange koro right now,transport_booking
+Kindly i feel helpless today because i need help,emotional_support
+Now When should I take insulin please,medication_reminder
+Kindly I need medical consultation right now,doctor_booking
+Recommend light exercise please,exercise_suggestion
+Suggest diabetic diet please,diet_suggestion
+Hey Help me travel to doctor clinic because I need help,transport_booking
+Kindly I cannot sleep because of stress today,emotional_support
+Urgently I need medical consultation please,doctor_booking
+Kindly i need help reaching hospital because i need help,transport_booking
+I am feeling anxious about my health for me,emotional_support
+Now When should I take insulin as soon as possible,medication_reminder
+Can you what should i eat for good health please,diet_suggestion
+Hey i need transport assistance today,transport_booking
+Today I missed my diabetes tablet for me,medication_reminder
+Kindly doctor appointment book koro as soon as possible,doctor_booking
+Kindly Mujhe exercise suggest karo as soon as possible,exercise_suggestion
+Mujhe healthy diet chahiye for me,diet_suggestion
+Kindly transport arrange koro please,transport_booking
+Now I miss my family right now,emotional_support
+Today Medicine khete bhule gechi for me,medication_reminder
+Please Recommend walking exercises right now,exercise_suggestion
+Kindly i feel very unhappy today today,emotional_support
+Now please remind me about medicines as soon as possible,medication_reminder
+Now Suggest walking exercises please,exercise_suggestion
+Hey I am feeling sad and alone because I need help,emotional_support
+Today I need medicine reminder support today,medication_reminder
+Hey Doctor appointment book koro today,doctor_booking
+Hey I feel helpless today please,emotional_support
+Please remind me about medicines as soon as possible,medication_reminder
+Can you Book doctor appointment for me,doctor_booking
+Today Suggest yoga for elderly,exercise_suggestion
+Hey Recommend nutrition plan as soon as possible,diet_suggestion
+Kindly I am feeling nervous and anxious please,emotional_support
+Kindly Mujhe medicine lena yaad dilao right now,medication_reminder
+Can you i want to schedule a health checkup because i need help,doctor_booking
+Today i need help reaching hospital as soon as possible,transport_booking
+Today i missed my diabetes tablet as soon as possible,medication_reminder
+Please Please help me contact a doctor right now,doctor_booking
+Today Suggest soft food for elderly please,diet_suggestion
+Now I need help reaching hospital as soon as possible,transport_booking
+Can you I feel ignored by everyone as soon as possible,emotional_support
+Please I need medicine reminder support because I need help,medication_reminder
+Now Please help me contact a doctor today,doctor_booking
+Kindly Mujhe healthy diet chahiye as soon as possible,diet_suggestion
+Can you Transport arrange koro today,transport_booking
+Can you i cannot sleep because of stress for me,emotional_support
+Kindly I forgot my blood pressure medicine as soon as possible,medication_reminder
+Can you How can I improve mobility please,exercise_suggestion
+Can you Mujhe healthy diet chahiye right now,diet_suggestion
+Hey I feel sad and alone for me,emotional_support
+I missed my diabetes tablet,medication_reminder
+Can you help me visit a doctor as soon as possible,doctor_booking
+Kindly Recommend chair yoga for seniors right now,exercise_suggestion
+Hey Mujhe hospital jane ke liye cab chahiye please,transport_booking
+Urgently I feel mentally exhausted please,emotional_support
+Can you Can you help me visit a doctor for me,doctor_booking
+Now How can I improve mobility for me,exercise_suggestion
+Today What should I eat for good health right now,diet_suggestion
+Urgently I need transport assistance because I need help,transport_booking
+Suggest chair yoga for seniors please,exercise_suggestion
+Kindly Suggest healthy food for elderly,diet_suggestion
+Kindly i am feeling mentally stressed please,emotional_support
+Hey Medicine khete bhule gechi for me,medication_reminder
+Hey Doctor appointment book koro please,doctor_booking
+Can elderly people do stretching because i need help,exercise_suggestion
+Exercise suggest koro,exercise_suggestion
+Now I am feeling emotionally weak,emotional_support
+Urgently I forgot to take my tablets for me,medication_reminder
+Today suggest yoga for elderly as soon as possible,exercise_suggestion
+Today Healthy khabar suggest koro today,diet_suggestion
+Can you Can you book cab for hospital as soon as possible,transport_booking
+Urgently I feel worried about my future please,emotional_support
+Urgently remind me to take my medicine as soon as possible,medication_reminder
+Can you i need medical consultation as soon as possible,doctor_booking
+Kindly Mujhe exercise suggest karo right now,exercise_suggestion
+Urgently Suggest soft food for elderly please,diet_suggestion
+Kindly i feel emotionally broken as soon as possible,emotional_support
+Can elderly people do stretching for me,exercise_suggestion
+Hey Recommend nutrition plan for me,diet_suggestion
+Today help me travel to doctor clinic,transport_booking
+Now I am feeling mentally exhausted because I need help,emotional_support
+Kindly I forgot to take my tablets for me,medication_reminder
+Hey Recommend yoga for elderly,exercise_suggestion
+Transport arrange koro for me,transport_booking
+Hey Nobody talks to me anymore right now,emotional_support
+Urgently How can I stay active right now,exercise_suggestion
+Urgently Recommend balanced diet as soon as possible,diet_suggestion
+Hey i need someone to talk to please,emotional_support
+Hey I missed my diabetes tablet,medication_reminder
+Urgently I want to schedule a health checkup as soon as possible,doctor_booking
+Kindly Help me travel to doctor clinic today,transport_booking
+Can you i am feeling sad and alone right now,emotional_support
+Please Remind me to take my medicine as soon as possible,medication_reminder
+Can you Exercise suggest koro as soon as possible,exercise_suggestion
+Urgently What should I eat for good health please,diet_suggestion
+Can you can you book cab for hospital because i need help,transport_booking
+Kindly I am feeling very unhappy today for me,emotional_support
+Urgently i need medicine reminder support as soon as possible,medication_reminder
+Hey can you help me visit a doctor for me,doctor_booking
+Mujhe exercise suggest karo today,exercise_suggestion
+Urgently What should I eat for good health because I need help,diet_suggestion
+Urgently Remind me to take my medicine as soon as possible,medication_reminder
+Today Can you help me visit a doctor because I need help,doctor_booking
+Today help me travel to doctor clinic today,transport_booking
+I feel emotionally broken today,emotional_support
+Today remind me to take my medicine right now,medication_reminder
+Now Suggest walking exercises for me,exercise_suggestion
+Hey help me arrange transportation because i need help,transport_booking
+Now I feel emotionally broken right now,emotional_support
+Now Recommend chair yoga for seniors,exercise_suggestion
+Today recommend balanced diet because i need help,diet_suggestion
+Can you I need help reaching hospital today,transport_booking
+I feel emotionally weak today,emotional_support
+Suggest yoga for elderly for me,exercise_suggestion
+Please What foods improve energy as soon as possible,diet_suggestion
+Urgently I need help reaching hospital,transport_booking
+Kindly I am feeling emotionally weak,emotional_support
+Kindly Recommend light exercise please,exercise_suggestion
+Suggest healthy food for elderly today,diet_suggestion
+Can you Mujhe hospital jane ke liye cab chahiye today,transport_booking
+Can you I am feeling mentally exhausted for me,emotional_support
+Now I forgot to take my tablets right now,medication_reminder
+Today Recommend simple exercise for me right now,exercise_suggestion
+Now recommend nutrition plan for me,diet_suggestion
+Now help me arrange transportation for me,transport_booking
+Hey Medicine khete bhule gechi,medication_reminder
+Can you recommend simple exercise for me please,exercise_suggestion
+What should I eat for good health right now,diet_suggestion
+Today Help me travel to doctor clinic please,transport_booking
+Today Nobody talks to me anymore,emotional_support
+Now Medicine khete bhule gechi today,medication_reminder
+Hey can elderly people do stretching right now,exercise_suggestion
+Urgently I cannot sleep because of stress,emotional_support
+Can you Recommend simple exercise for me as soon as possible,exercise_suggestion
+Hey Recommend balanced diet as soon as possible,diet_suggestion
+Urgently I feel depressed today right now,emotional_support
+Urgently Please remind me about medicines please,medication_reminder
+Hey mujhe doctor appointment chahiye,doctor_booking
+Hey How can I stay active please,exercise_suggestion
+Today i need help reaching hospital please,transport_booking
+Now I need someone to talk to for me,emotional_support
+Urgently I want to schedule a health checkup for me,doctor_booking
+Recommend light exercise today,exercise_suggestion
+Please Mujhe healthy diet chahiye for me,diet_suggestion
+Kindly Transport arrange koro,transport_booking
+Please Nobody talks to me anymore for me,emotional_support
+Kindly Suggest healthy food for elderly for me,diet_suggestion
+Can you I need help reaching hospital for me,transport_booking
+Kindly i am feeling emotionally down please,emotional_support
+Can you I want to schedule a health checkup,doctor_booking
+Now Mujhe exercise suggest karo for me,exercise_suggestion
+Now suggest soft food for elderly,diet_suggestion
+Kindly I need someone to talk to,emotional_support
+Urgently Mujhe hospital jane ke liye cab chahiye today,transport_booking
+Hey i am feeling worried about my future,emotional_support
+Urgently book doctor appointment for me for me,doctor_booking
+Can you Recommend nutrition plan please,diet_suggestion
+Hey i feel lonely today right now,emotional_support
+Can you Please remind me about medicines,medication_reminder
+Kindly Can you help me visit a doctor please,doctor_booking
+Please how can i stay active right now,exercise_suggestion
+Suggest healthy food for elderly please,diet_suggestion
+Urgently mujhe hospital jane ke liye cab chahiye today,transport_booking
+Kindly I feel sad and alone because I need help,emotional_support
+Kindly Recommend soft food for elderly,diet_suggestion
+Can you Transport arrange koro right now,transport_booking
+Today I am feeling lonely today today,emotional_support
+Now Doctor appointment book koro please,doctor_booking
+Kindly suggest soft food for elderly today,diet_suggestion
+Urgently I need transport assistance as soon as possible,transport_booking
+Can you I am feeling mentally exhausted right now,emotional_support
+Remind me to take my medicine for me,medication_reminder
+Please Can you help me visit a doctor for me,doctor_booking
+Hey Recommend yoga for elderly because I need help,exercise_suggestion
+Can you I feel nervous and anxious please,emotional_support
+Urgently i forgot to take my tablets please,medication_reminder
+Urgently i need medical consultation today,doctor_booking
+Hey Can elderly people do stretching today,exercise_suggestion
+Kindly I need transport assistance,transport_booking
+I feel sad and alone please,emotional_support
+Today Doctor appointment book koro because I need help,doctor_booking
+Now Suggest healthy food for elderly today,diet_suggestion
+Please help me travel to doctor clinic right now,transport_booking
+Hey I feel mentally stressed,emotional_support
+Today I need medical consultation as soon as possible,doctor_booking
+Today Recommend light exercise for me,exercise_suggestion
+Please Recommend soft food for elderly as soon as possible,diet_suggestion
+Kindly I am feeling sad and alone as soon as possible,emotional_support
+Can you I forgot my blood pressure medicine for me,medication_reminder
+Please Can elderly people do stretching for me,exercise_suggestion
+Today Mujhe healthy diet chahiye because I need help,diet_suggestion
+Can you mujhe hospital jane ke liye cab chahiye for me,transport_booking
+Hey I am feeling lonely today,emotional_support
+Urgently i forgot my blood pressure medicine right now,medication_reminder
+Can you recommend simple exercise for me today,exercise_suggestion
+Kindly Mujhe healthy diet chahiye because I need help,diet_suggestion
+Urgently i feel sad and alone because i need help,emotional_support
+Please please remind me about medicines for me,medication_reminder
+Kindly Please help me contact a doctor please,doctor_booking
+Hey Exercise suggest koro because I need help,exercise_suggestion
+Urgently how can i improve nutrition because i need help,diet_suggestion
+Now Help me arrange transportation please,transport_booking
+Now I feel depressed today please,emotional_support
+Medicine khete bhule gechi please,medication_reminder
+Recommend light exercise as soon as possible,exercise_suggestion
 I feel emotionally weak,emotional_support
+Urgently Medicine khete bhule gechi right now,medication_reminder
+Urgently How can I improve mobility right now,exercise_suggestion
+Now Suggest healthy food for elderly right now,diet_suggestion
+I feel sad and alone as soon as possible,emotional_support
+Urgently i missed my diabetes tablet today,medication_reminder
+Please Healthy khabar suggest koro today,diet_suggestion
+Can you Transport arrange koro,transport_booking
+Hey Medicine khete bhule gechi today,medication_reminder
+Hey Mujhe exercise suggest karo because I need help,exercise_suggestion
+Can you Healthy khabar suggest koro for me,diet_suggestion
+Hey Book transport for hospital visit for me,transport_booking
+Can you I feel anxious about my health,emotional_support
+Please remind me to take my pills right now,medication_reminder
+Can you book cab for hospital,transport_booking
+Please Recommend walking exercises for me,exercise_suggestion
+Urgently I want to schedule a health checkup right now,doctor_booking
+Urgently Recommend yoga for elderly because I need help,exercise_suggestion
+Kindly what foods improve energy as soon as possible,diet_suggestion
+Can you mujhe hospital jane ke liye cab chahiye today,transport_booking
+Today I feel scared about my condition please,emotional_support
+Can you I need medicine reminder support as soon as possible,medication_reminder
+Can you mujhe doctor appointment chahiye please,doctor_booking
+Can you i feel mentally stressed for me,emotional_support
+Please i forgot to take my tablets today,medication_reminder
+Hey How can I improve nutrition today,diet_suggestion
+Can you i am feeling depressed today right now,emotional_support
+Now remind me to take my medicine for me,medication_reminder
+Hey Mujhe healthy diet chahiye,diet_suggestion
+Please Nobody talks to me anymore because I need help,emotional_support
+Kindly when should i take insulin as soon as possible,medication_reminder
+Can you Help me arrange transportation as soon as possible,transport_booking
+Now Recommend simple exercise for me right now,exercise_suggestion
+Now Healthy khabar suggest koro as soon as possible,diet_suggestion
+Kindly I need a doctor consultation please,doctor_booking
+Can you Recommend simple exercise for me for me,exercise_suggestion
+Hey recommend nutrition plan because i need help,diet_suggestion
+Can you i feel isolated as soon as possible,emotional_support
+Hey When should I take insulin for me,medication_reminder
+Can you Recommend light exercise right now,exercise_suggestion
+Kindly Nobody talks to me anymore please,emotional_support
+Kindly Mujhe exercise suggest karo because I need help,exercise_suggestion
+Kindly Recommend healthy food for elderly as soon as possible,diet_suggestion
+Now I feel emotionally weak please,emotional_support
+I want to schedule a health checkup today,doctor_booking
+Urgently Exercise suggest koro right now,exercise_suggestion
+Hey Suggest healthy food for elderly today,diet_suggestion
+Can you I feel nervous and anxious right now,emotional_support
+Please Please remind me about medicines right now,medication_reminder
+Please i want to schedule a health checkup right now,doctor_booking
+Kindly can you book cab for hospital,transport_booking
+I feel mentally stressed for me,emotional_support
+Please book doctor appointment for me,doctor_booking
+Can you Suggest yoga for elderly as soon as possible,exercise_suggestion
+Can you what should i eat for good health because i need help,diet_suggestion
+Please mujhe hospital jane ke liye cab chahiye,transport_booking
+Today I feel mentally stressed as soon as possible,emotional_support
+Urgently when should i take insulin as soon as possible,medication_reminder
+Urgently Please help me contact a doctor today,doctor_booking
+Please How can I stay active as soon as possible,exercise_suggestion
+Please Suggest healthy food for elderly right now,diet_suggestion
+Kindly I feel worried about my future today,emotional_support
+Now Can you help me visit a doctor because I need help,doctor_booking
+Now Suggest yoga for elderly please,exercise_suggestion
+Today Suggest soft food for elderly,diet_suggestion
+Kindly Help me arrange transportation for me,transport_booking
+Urgently I need someone to talk to,emotional_support
+Urgently Remind me to take my medicine because I need help,medication_reminder
+Now Transport arrange koro as soon as possible,transport_booking
+Today I feel mentally stressed because I need help,emotional_support
+Please I am feeling worried about my future,emotional_support
+Kindly Please remind me to take my pills,medication_reminder
+Now i need transport assistance because i need help,transport_booking
+I feel emotionally weak right now,emotional_support
+Hey Remind me to take my medicine please,medication_reminder
+Kindly i want to schedule a health checkup today,doctor_booking
+How can i improve nutrition,diet_suggestion
+Please help me travel to doctor clinic for me,transport_booking
+Can you i feel lonely today as soon as possible,emotional_support
+Urgently please help me contact a doctor because i need help,doctor_booking
+Please Mujhe exercise suggest karo right now,exercise_suggestion
+Kindly Mujhe healthy diet chahiye for me,diet_suggestion
+Please I cannot sleep because of stress right now,emotional_support
+Hey Please remind me about medicines right now,medication_reminder
+Today Doctor appointment book koro as soon as possible,doctor_booking
+Kindly how can i stay active right now,exercise_suggestion
+Please Mujhe healthy diet chahiye,diet_suggestion
+Now help me travel to doctor clinic,transport_booking
+Now I feel mentally stressed,emotional_support
+Hey remind me to take my medicine as soon as possible,medication_reminder
+Now suggest healthy food for elderly right now,diet_suggestion
+Now I need help reaching hospital,transport_booking
+Urgently I feel worried about my future as soon as possible,emotional_support
+Please Please remind me to take my pills,medication_reminder
+Kindly I feel helpless today for me,emotional_support
+Now Please remind me about medicines,medication_reminder
+Kindly I am feeling isolated please,emotional_support
+Now Book doctor appointment for me right now,doctor_booking
+Please when should i take insulin as soon as possible,medication_reminder
+Now Can you help me visit a doctor as soon as possible,doctor_booking
+Today Mujhe exercise suggest karo right now,exercise_suggestion
+Now how can i improve nutrition right now,diet_suggestion
+Urgently i want to schedule a health checkup,doctor_booking
+Kindly Recommend yoga for elderly today,exercise_suggestion
+Can you Book transport for hospital visit,transport_booking
+Hey I miss my family,emotional_support
+Please Remind me to take my medicine for me,medication_reminder
+Recommend balanced diet because I need help,diet_suggestion
+Now I am feeling scared about my condition please,emotional_support
+Now mujhe medicine lena yaad dilao because i need help,medication_reminder
+I need a doctor consultation because I need help,doctor_booking
+Hey can you book cab for hospital please,transport_booking
+Today I cannot sleep because of stress because I need help,emotional_support
+Can you mujhe medicine lena yaad dilao today,medication_reminder
+Can you can you help me visit a doctor for me,doctor_booking
+Hey mujhe exercise suggest karo,exercise_suggestion
+Today suggest soft food for elderly today,diet_suggestion
+Urgently Transport arrange koro as soon as possible,transport_booking
+Today I am feeling helpless today for me,emotional_support
+Now I forgot my blood pressure medicine as soon as possible,medication_reminder
+Can you doctor appointment book koro today,doctor_booking
+Suggest chair yoga for seniors because i need help,exercise_suggestion
+Today I feel nervous and anxious because I need help,emotional_support
+Suggest healthy food for elderly,diet_suggestion
+Today remind me to take my medicine,medication_reminder
+Please I am feeling emotionally down right now,emotional_support
+Now Recommend simple exercise for me because I need help,exercise_suggestion
+Mujhe medicine lena yaad dilao today,medication_reminder
+Please can you help me visit a doctor right now,doctor_booking
+Can you How can I improve mobility because I need help,exercise_suggestion
+How can I improve nutrition today,diet_suggestion
+Help me travel to doctor clinic because i need help,transport_booking
+Hey I feel worried about my future today,emotional_support
+Please Medicine khete bhule gechi today,medication_reminder
+Please Mujhe doctor appointment chahiye because I need help,doctor_booking
+Now I am feeling helpless today please,emotional_support
+Hey Please remind me about medicines because I need help,medication_reminder
+Hey I feel helpless today,emotional_support
+Can you medicine khete bhule gechi please,medication_reminder
+Hey I cannot sleep because of stress as soon as possible,emotional_support
+Urgently Mujhe medicine lena yaad dilao for me,medication_reminder
+Hey Mujhe doctor appointment chahiye for me,doctor_booking
+Now suggest walking exercises today,exercise_suggestion
+Can you help me arrange transportation as soon as possible,transport_booking
+Kindly I feel emotionally broken today,emotional_support
+Today Recommend simple exercise for me today,exercise_suggestion
+Now What foods improve energy for me,diet_suggestion
+Urgently Mujhe doctor appointment chahiye please,doctor_booking
+Can you recommend light exercise,exercise_suggestion
+Please Suggest healthy food for elderly for me,diet_suggestion
+Can you Can you book cab for hospital please,transport_booking
+Today I feel emotionally weak,emotional_support
+Now mujhe exercise suggest karo right now,exercise_suggestion
+Today I am feeling anxious about my health as soon as possible,emotional_support
+Can you please remind me about medicines because i need help,medication_reminder
+Can you Suggest yoga for elderly right now,exercise_suggestion
+How can I improve nutrition as soon as possible,diet_suggestion
+I need transport assistance please,transport_booking
+Urgently I cannot sleep because of stress because I need help,emotional_support
+Now Please remind me about medicines please,medication_reminder
+Kindly Can you book cab for hospital,transport_booking
+Hey i feel helpless today because i need help,emotional_support
+Hey Can you help me visit a doctor please,doctor_booking
+I feel depressed today right now,emotional_support
+Today Book doctor appointment for me please,doctor_booking
+Can you Suggest chair yoga for seniors please,exercise_suggestion
+Hey Recommend balanced diet please,diet_suggestion
+Hey Nobody talks to me anymore please,emotional_support
+Please Mujhe exercise suggest karo,exercise_suggestion
+Hey Suggest healthy food for elderly for me,diet_suggestion
+Today I need transport assistance for me,transport_booking
+Can you I feel isolated for me,emotional_support
+I feel mentally exhausted,emotional_support
+Can you Book doctor appointment for me right now,doctor_booking
+Urgently Suggest healthy food for elderly right now,diet_suggestion
+Can you i feel worried about my future please,emotional_support
+Please When should I take insulin,medication_reminder
+Please Mujhe doctor appointment chahiye right now,doctor_booking
+Now How can I stay active please,exercise_suggestion
+Hey book transport for hospital visit because i need help,transport_booking
+I am feeling helpless today,emotional_support
+Now Mujhe doctor appointment chahiye as soon as possible,doctor_booking
+Can you How can I stay active because I need help,exercise_suggestion
+Now Recommend healthy food for elderly for me,diet_suggestion
+Urgently I need help reaching hospital for me,transport_booking
+Now I miss my family today,emotional_support
+Kindly doctor appointment book koro,doctor_booking
+What foods improve energy right now,diet_suggestion
+Can you Transport arrange koro as soon as possible,transport_booking
+Kindly i forgot my blood pressure medicine,medication_reminder
+What should I eat for good health today,diet_suggestion
+I am feeling emotionally broken for me,emotional_support
+Hey i need a doctor consultation for me,doctor_booking
+Now recommend diabetic diet please,diet_suggestion
+Now i am feeling mentally exhausted right now,emotional_support
+Hey how can i improve nutrition,diet_suggestion
+I forgot to take my tablets for me,medication_reminder
+Hey Doctor appointment book koro right now,doctor_booking
+Today What should I eat for good health,diet_suggestion
+Urgently Book transport for hospital visit because I need help,transport_booking
+Kindly i feel depressed today today,emotional_support
+Urgently Suggest yoga for elderly for me,exercise_suggestion
+Hey What should I eat for good health as soon as possible,diet_suggestion
+Kindly i need help reaching hospital for me,transport_booking
+Urgently I feel nervous and anxious because I need help,emotional_support
+Now Please remind me to take my pills as soon as possible,medication_reminder
+Today Please help me contact a doctor right now,doctor_booking
+Today suggest chair yoga for seniors today,exercise_suggestion
+Hey I feel nervous and anxious as soon as possible,emotional_support
+Now I forgot to take my tablets please,medication_reminder
+Please recommend soft food for elderly please,diet_suggestion
+Hey Mujhe hospital jane ke liye cab chahiye,transport_booking
+Hey I feel lonely today as soon as possible,emotional_support
+Please I need medicine reminder support today,medication_reminder
+Can you please help me contact a doctor today,doctor_booking
+Hey Recommend light exercise,exercise_suggestion
+Today Suggest diabetic diet because I need help,diet_suggestion
+Now Can you book cab for hospital for me,transport_booking
+Today I feel lonely today please,emotional_support
+Can you please remind me to take my pills today,medication_reminder
+Today Can you help me visit a doctor as soon as possible,doctor_booking
+Please i am feeling emotionally down right now,emotional_support
+Kindly Exercise suggest koro today,exercise_suggestion
+Urgently I need help reaching hospital right now,transport_booking
+Today I miss my family as soon as possible,emotional_support
+Book doctor appointment for me as soon as possible,doctor_booking
+Today Recommend yoga for elderly for me,exercise_suggestion
+Hey Suggest healthy food for elderly,diet_suggestion
+Hey Help me travel to doctor clinic today,transport_booking
+Now How can I stay active today,exercise_suggestion
+Now How can I improve nutrition today,diet_suggestion
+I feel emotionally broken,emotional_support
+Urgently Mujhe healthy diet chahiye for me,diet_suggestion
+Hey Mujhe hospital jane ke liye cab chahiye for me,transport_booking
+Can you I am feeling anxious about my health please,emotional_support
+Now Healthy khabar suggest koro for me,diet_suggestion
+I need transport assistance right now,transport_booking
+Kindly I feel nervous and anxious please,emotional_support
+Medicine khete bhule gechi,medication_reminder
+Hey Healthy khabar suggest koro because I need help,diet_suggestion
+Now Mujhe hospital jane ke liye cab chahiye,transport_booking
+Today i feel anxious about my health as soon as possible,emotional_support
+Urgently Exercise suggest koro because I need help,exercise_suggestion
+Urgently I missed my diabetes tablet because I need help,medication_reminder
+Hey Book doctor appointment for me,doctor_booking
+Now What should I eat for good health please,diet_suggestion
+Kindly I feel nervous and anxious as soon as possible,emotional_support
+Today Healthy khabar suggest koro as soon as possible,diet_suggestion
+Kindly i need help reaching hospital as soon as possible,transport_booking
+Now I am feeling emotionally down because I need help,emotional_support
+Hey recommend healthy food for elderly please,diet_suggestion
+Hey Help me arrange transportation please,transport_booking
+I need someone to talk to today,emotional_support
+I need medicine reminder support because i need help,medication_reminder
+Hey doctor appointment book koro as soon as possible,doctor_booking
+Urgently suggest walking exercises as soon as possible,exercise_suggestion
+Please How can I improve nutrition,diet_suggestion
+Hey Help me arrange transportation as soon as possible,transport_booking
+Please i am feeling emotionally weak for me,emotional_support
+I need medical consultation,doctor_booking
+Now mujhe exercise suggest karo because i need help,exercise_suggestion
+Urgently can you book cab for hospital for me,transport_booking
+Urgently I am feeling emotionally down,emotional_support
+Now i need medical consultation please,doctor_booking
+Suggest soft food for elderly,diet_suggestion
+Now Can you help me visit a doctor for me,doctor_booking
+Today How can I improve mobility please,exercise_suggestion
+Kindly I am feeling nervous and anxious as soon as possible,emotional_support
+Now Please remind me about medicines as soon as possible,medication_reminder
+Today How can I stay active as soon as possible,exercise_suggestion
+Please i feel very unhappy today because i need help,emotional_support
+Hey Mujhe medicine lena yaad dilao because I need help,medication_reminder
+Kindly Can elderly people do stretching right now,exercise_suggestion
+Please Healthy khabar suggest koro for me,diet_suggestion
+Kindly help me arrange transportation because i need help,transport_booking
+Can you I feel mentally exhausted today,emotional_support
+Hey Help me arrange transportation for me,transport_booking
+Please I cannot sleep because of stress for me,emotional_support
+Urgently I forgot my blood pressure medicine right now,medication_reminder
+Can you help me visit a doctor today,doctor_booking
+Now What should I eat for good health,diet_suggestion
+Help me arrange transportation please,transport_booking
+Please I miss my family as soon as possible,emotional_support
+Now I need medicine reminder support please,medication_reminder
+Today I am feeling anxious about my health,emotional_support
+Now when should i take insulin please,medication_reminder
+Urgently Please help me contact a doctor because I need help,doctor_booking
+Book transport for hospital visit because I need help,transport_booking
+Now please remind me to take my pills for me,medication_reminder
+Now Suggest yoga for elderly because I need help,exercise_suggestion
+Can you healthy khabar suggest koro because i need help,diet_suggestion
+Please I am feeling emotionally broken for me,emotional_support
+Today Can you help me visit a doctor,doctor_booking
+What should I eat for good health because I need help,diet_suggestion
+Can you I am feeling sad and alone for me,emotional_support
+Hey I need medicine reminder support as soon as possible,medication_reminder
+Please I need a doctor consultation as soon as possible,doctor_booking
+Today i am feeling emotionally broken please,emotional_support
+Mujhe medicine lena yaad dilao right now,medication_reminder
+Please I need medical consultation for me,doctor_booking
+Hey suggest yoga for elderly today,exercise_suggestion
+Hey Suggest diabetic diet right now,diet_suggestion
+Can you Remind me to take my medicine today,medication_reminder
+Kindly suggest yoga for elderly because i need help,exercise_suggestion
+Urgently Recommend diabetic diet as soon as possible,diet_suggestion
+Please Book transport for hospital visit because I need help,transport_booking
+Hey I feel emotionally broken for me,emotional_support
+Urgently mujhe medicine lena yaad dilao please,medication_reminder
+Now I need medical consultation today,doctor_booking
+Today How can I stay active today,exercise_suggestion
+Kindly I am feeling mentally exhausted,emotional_support
+Please Suggest walking exercises please,exercise_suggestion
+Kindly Recommend balanced diet for me,diet_suggestion
+Please i need help reaching hospital because i need help,transport_booking
+Today I need medicine reminder support right now,medication_reminder
+Can you Suggest diabetic diet right now,diet_suggestion
+Kindly I need help reaching hospital,transport_booking
+Can you Nobody talks to me anymore right now,emotional_support
+Please Remind me to take my medicine please,medication_reminder
+Kindly i want to schedule a health checkup because i need help,doctor_booking
+How can I stay active as soon as possible,exercise_suggestion
+Please can you book cab for hospital because i need help,transport_booking
+Hey nobody talks to me anymore for me,emotional_support
+Kindly Please remind me about medicines because I need help,medication_reminder
+Please Recommend diabetic diet because I need help,diet_suggestion
+Can you book cab for hospital today,transport_booking
+Hey I am feeling emotionally down please,emotional_support
+Urgently How can I improve nutrition for me,diet_suggestion
+Hey i need transport assistance for me,transport_booking
+Now remind me to take my medicine please,medication_reminder
+Urgently Suggest diabetic diet right now,diet_suggestion
+Please Mujhe hospital jane ke liye cab chahiye as soon as possible,transport_booking
+Kindly i am feeling mentally stressed today,emotional_support
+Today Mujhe doctor appointment chahiye as soon as possible,doctor_booking
+Please Recommend simple exercise for me right now,exercise_suggestion
+Can you Transport arrange koro because I need help,transport_booking
+Today I am feeling isolated,emotional_support
+Hey I want to schedule a health checkup please,doctor_booking
+Can you Suggest walking exercises for me,exercise_suggestion
+Now Suggest soft food for elderly for me,diet_suggestion
+Now I need help reaching hospital because I need help,transport_booking
+Now I feel ignored by everyone right now,emotional_support
+I feel depressed today 6440,emotional_support
+Mujhe medicine lena yaad dilao 9743,medication_reminder
+I need medical consultation 1042,doctor_booking
+Mujhe exercise suggest karo 3419,exercise_suggestion
+Healthy khabar suggest koro 2073,diet_suggestion
+I need transport assistance 2902,transport_booking
+I cannot sleep because of stress 4679,emotional_support
+Medicine khete bhule gechi 363,medication_reminder
+Book doctor appointment for me 9383,doctor_booking
+Exercise suggest koro 5020,exercise_suggestion
+How can I improve nutrition 1435,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 3038,transport_booking
+I need someone to talk to 9764,emotional_support
+Please remind me about medicines 5294,medication_reminder
+Mujhe doctor appointment chahiye 9433,doctor_booking
+Mujhe exercise suggest karo 6506,exercise_suggestion
+Healthy khabar suggest koro 7319,diet_suggestion
+Help me arrange transportation 1849,transport_booking
+I feel sad and alone 222,emotional_support
+I forgot to take my tablets 4525,medication_reminder
+Can you help me visit a doctor 3926,doctor_booking
+Exercise suggest koro 9643,exercise_suggestion
+What should I eat for good health 4354,diet_suggestion
+Help me arrange transportation 6305,transport_booking
+I feel emotionally weak 4685,emotional_support
+Remind me to take my medicine 4339,medication_reminder
+I want to schedule a health checkup 4061,doctor_booking
+Can elderly people do stretching 6807,exercise_suggestion
+What should I eat for good health 4932,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 5062,transport_booking
+I feel isolated 915,emotional_support
+I forgot to take my tablets 9283,medication_reminder
+I need medical consultation 3605,doctor_booking
+Suggest chair yoga for seniors 3703,exercise_suggestion
+What should I eat for good health 297,diet_suggestion
+Book transport for hospital visit 8752,transport_booking
+I feel emotionally weak 8122,emotional_support
+Please remind me to take my pills 5838,medication_reminder
+Can you help me visit a doctor 2328,doctor_booking
+Recommend light exercise 1301,exercise_suggestion
+Mujhe healthy diet chahiye 8995,diet_suggestion
+I need help reaching hospital 1514,transport_booking
+I feel nervous and anxious 4602,emotional_support
+Medicine khete bhule gechi 2563,medication_reminder
+I want to schedule a health checkup 5944,doctor_booking
+How can I stay active 2888,exercise_suggestion
+What foods improve energy 8282,diet_suggestion
+I need help reaching hospital 4256,transport_booking
+I feel depressed today 8161,emotional_support
+Remind me to take my medicine 1843,medication_reminder
+Please help me contact a doctor 3179,doctor_booking
+Can elderly people do stretching 415,exercise_suggestion
+How can I improve nutrition 6733,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 2419,transport_booking
+I feel sad and alone 7287,emotional_support
+I forgot to take my tablets 7422,medication_reminder
+Can you help me visit a doctor 9459,doctor_booking
+Mujhe exercise suggest karo 6559,exercise_suggestion
+Mujhe healthy diet chahiye 6664,diet_suggestion
+Can you book cab for hospital 3195,transport_booking
+I feel ignored by everyone 56,emotional_support
+I forgot my blood pressure medicine 4566,medication_reminder
+Book doctor appointment for me 765,doctor_booking
+Exercise suggest koro 2499,exercise_suggestion
+Suggest soft food for elderly 8799,diet_suggestion
+I need transport assistance 403,transport_booking
+I feel emotionally broken 5333,emotional_support
+Please remind me to take my pills 748,medication_reminder
+Book doctor appointment for me 415,doctor_booking
+Can elderly people do stretching 7928,exercise_suggestion
+Recommend nutrition plan 2098,diet_suggestion
+I need transport assistance 5066,transport_booking
+I feel anxious about my health 5240,emotional_support
+I forgot to take my tablets 3193,medication_reminder
+I need a doctor consultation 6971,doctor_booking
+Suggest yoga for elderly 9900,exercise_suggestion
+Healthy khabar suggest koro 3715,diet_suggestion
+I need transport assistance 3566,transport_booking
+I need someone to talk to 8669,emotional_support
+I forgot my blood pressure medicine 8100,medication_reminder
+Can you help me visit a doctor 575,doctor_booking
+Suggest walking exercises 1993,exercise_suggestion
+Suggest diabetic diet 6195,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 5752,transport_booking
+I feel mentally stressed 8489,emotional_support
+Mujhe medicine lena yaad dilao 2884,medication_reminder
+Book doctor appointment for me 9846,doctor_booking
+Can elderly people do stretching 9431,exercise_suggestion
+Suggest soft food for elderly 4033,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 2095,transport_booking
+I feel emotionally broken 5772,emotional_support
+I missed my diabetes tablet 3845,medication_reminder
+Can you help me visit a doctor 2769,doctor_booking
+Can elderly people do stretching 7254,exercise_suggestion
+Suggest diabetic diet 3115,diet_suggestion
+Help me arrange transportation 24,transport_booking
+I feel scared about my condition 5958,emotional_support
+I forgot to take my tablets 3639,medication_reminder
+Mujhe doctor appointment chahiye 3695,doctor_booking
+Can elderly people do stretching 3714,exercise_suggestion
+What foods improve energy 6994,diet_suggestion
+I need transport assistance 8312,transport_booking
+I feel emotionally broken 570,emotional_support
+I forgot to take my tablets 6507,medication_reminder
+I need a doctor consultation 803,doctor_booking
+Recommend simple exercise for me 7523,exercise_suggestion
+Suggest healthy food for elderly 8380,diet_suggestion
+Help me arrange transportation 6375,transport_booking
+I am feeling emotionally down 8157,emotional_support
+I forgot my blood pressure medicine 8285,medication_reminder
+Can you help me visit a doctor 3276,doctor_booking
+Mujhe exercise suggest karo 633,exercise_suggestion
+What should I eat for good health 232,diet_suggestion
+I need help reaching hospital 2043,transport_booking
+I feel mentally stressed 6496,emotional_support
+I forgot my blood pressure medicine 5804,medication_reminder
+I want to schedule a health checkup 9147,doctor_booking
+Recommend simple exercise for me 2997,exercise_suggestion
+What should I eat for good health 8078,diet_suggestion
+Help me travel to doctor clinic 4295,transport_booking
+I feel nervous and anxious 4232,emotional_support
+Mujhe medicine lena yaad dilao 7840,medication_reminder
+I want to schedule a health checkup 5314,doctor_booking
+Suggest chair yoga for seniors 4304,exercise_suggestion
+Recommend nutrition plan 2379,diet_suggestion
+Can you book cab for hospital 3551,transport_booking
+I feel mentally stressed 2321,emotional_support
+Please remind me about medicines 8329,medication_reminder
+Book doctor appointment for me 1739,doctor_booking
+How can I improve mobility 4785,exercise_suggestion
+Healthy khabar suggest koro 2523,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 9179,transport_booking
+I feel helpless today 2528,emotional_support
+Please remind me about medicines 2927,medication_reminder
+Mujhe doctor appointment chahiye 6636,doctor_booking
+Suggest yoga for elderly 6178,exercise_suggestion
+Recommend nutrition plan 5531,diet_suggestion
+Can you book cab for hospital 6089,transport_booking
+Nobody talks to me anymore 6384,emotional_support
+I missed my diabetes tablet 7845,medication_reminder
+I want to schedule a health checkup 1093,doctor_booking
+Recommend light exercise 8710,exercise_suggestion
+Suggest healthy food for elderly 4450,diet_suggestion
+Help me travel to doctor clinic 8058,transport_booking
+I feel depressed today 1713,emotional_support
+I missed my diabetes tablet 104,medication_reminder
+Please help me contact a doctor 5166,doctor_booking
+Suggest walking exercises 9157,exercise_suggestion
+Healthy khabar suggest koro 2000,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 2433,transport_booking
+I feel lonely today 1176,emotional_support
+I missed my diabetes tablet 6314,medication_reminder
+Can you help me visit a doctor 6575,doctor_booking
+Suggest yoga for elderly 8335,exercise_suggestion
+Healthy khabar suggest koro 6543,diet_suggestion
+Can you book cab for hospital 9354,transport_booking
+I feel very unhappy today 5987,emotional_support
+Mujhe medicine lena yaad dilao 1037,medication_reminder
+Mujhe doctor appointment chahiye 4536,doctor_booking
+Suggest chair yoga for seniors 738,exercise_suggestion
+Mujhe healthy diet chahiye 5218,diet_suggestion
+Transport arrange koro 9318,transport_booking
+I miss my family 2856,emotional_support
+I forgot my blood pressure medicine 6035,medication_reminder
+I need a doctor consultation 7015,doctor_booking
+How can I stay active 1180,exercise_suggestion
+What should I eat for good health 9278,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 5406,transport_booking
+I feel mentally exhausted 4451,emotional_support
+Remind me to take my medicine 9332,medication_reminder
+I need a doctor consultation 9441,doctor_booking
+Mujhe exercise suggest karo 9707,exercise_suggestion
+Suggest diabetic diet 9682,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 7387,transport_booking
+I feel nervous and anxious 8138,emotional_support
+Medicine khete bhule gechi 3029,medication_reminder
+Book doctor appointment for me 7818,doctor_booking
+Suggest yoga for elderly 2247,exercise_suggestion
+Suggest healthy food for elderly 4156,diet_suggestion
+Help me arrange transportation 7121,transport_booking
+I feel anxious about my health 245,emotional_support
+I forgot my blood pressure medicine 8129,medication_reminder
+I need a doctor consultation 2228,doctor_booking
+Recommend light exercise 2453,exercise_suggestion
+Healthy khabar suggest koro 1201,diet_suggestion
+Can you book cab for hospital 9365,transport_booking
+I feel sad and alone 7046,emotional_support
+I need medicine reminder support 6612,medication_reminder
+Please help me contact a doctor 8716,doctor_booking
+How can I improve mobility 7437,exercise_suggestion
+What foods improve energy 596,diet_suggestion
+I need help reaching hospital 3533,transport_booking
+I miss my family 2703,emotional_support
+Mujhe medicine lena yaad dilao 8038,medication_reminder
+Please help me contact a doctor 3791,doctor_booking
+Recommend light exercise 9863,exercise_suggestion
+Recommend nutrition plan 2161,diet_suggestion
+I need help reaching hospital 6380,transport_booking
+I feel lonely today 7543,emotional_support
+Medicine khete bhule gechi 9450,medication_reminder
+Please help me contact a doctor 8925,doctor_booking
+Mujhe exercise suggest karo 5774,exercise_suggestion
+Suggest diabetic diet 3408,diet_suggestion
+Transport arrange koro 3327,transport_booking
+I feel emotionally weak 9874,emotional_support
+I forgot my blood pressure medicine 6263,medication_reminder
+Mujhe doctor appointment chahiye 5059,doctor_booking
+Suggest walking exercises 506,exercise_suggestion
+How can I improve nutrition 9474,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 2977,transport_booking
+I feel sad and alone 2043,emotional_support
+Please remind me about medicines 749,medication_reminder
+Can you help me visit a doctor 1984,doctor_booking
+How can I improve mobility 1135,exercise_suggestion
+Mujhe healthy diet chahiye 386,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 7968,transport_booking
+I need someone to talk to 4462,emotional_support
+When should I take insulin 9225,medication_reminder
+Please help me contact a doctor 4655,doctor_booking
+Suggest chair yoga for seniors 113,exercise_suggestion
+Suggest healthy food for elderly 20,diet_suggestion
+Help me arrange transportation 6896,transport_booking
+I feel nervous and anxious 7607,emotional_support
+Mujhe medicine lena yaad dilao 5017,medication_reminder
+Doctor appointment book koro 8926,doctor_booking
+Mujhe exercise suggest karo 8134,exercise_suggestion
+What foods improve energy 4879,diet_suggestion
+I need help reaching hospital 9718,transport_booking
+I feel ignored by everyone 5072,emotional_support
+I forgot my blood pressure medicine 6878,medication_reminder
+I want to schedule a health checkup 6319,doctor_booking
+Exercise suggest koro 6990,exercise_suggestion
+Suggest healthy food for elderly 4210,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 542,transport_booking
+I feel lonely today 6664,emotional_support
+I missed my diabetes tablet 5784,medication_reminder
+Mujhe doctor appointment chahiye 3615,doctor_booking
+Suggest chair yoga for seniors 3264,exercise_suggestion
+Suggest healthy food for elderly 9648,diet_suggestion
+Help me travel to doctor clinic 4463,transport_booking
+I feel helpless today 6990,emotional_support
+I need medicine reminder support 3056,medication_reminder
+Please help me contact a doctor 7232,doctor_booking
+Recommend light exercise 1801,exercise_suggestion
+Recommend balanced diet 5868,diet_suggestion
+Help me arrange transportation 9328,transport_booking
+I need someone to talk to 3650,emotional_support
+Medicine khete bhule gechi 3374,medication_reminder
+Book doctor appointment for me 6078,doctor_booking
+How can I improve mobility 7635,exercise_suggestion
+Suggest healthy food for elderly 2937,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 5731,transport_booking
+I feel emotionally weak 2647,emotional_support
+Please remind me to take my pills 2640,medication_reminder
+Please help me contact a doctor 6776,doctor_booking
+Suggest walking exercises 6989,exercise_suggestion
+Healthy khabar suggest koro 3847,diet_suggestion
+I need transport assistance 5145,transport_booking
+I am feeling emotionally down 4752,emotional_support
+Please remind me to take my pills 9169,medication_reminder
+Mujhe doctor appointment chahiye 6447,doctor_booking
+Exercise suggest koro 4616,exercise_suggestion
+What foods improve energy 7121,diet_suggestion
+Can you book cab for hospital 4892,transport_booking
+I cannot sleep because of stress 4289,emotional_support
+When should I take insulin 3628,medication_reminder
+Doctor appointment book koro 4218,doctor_booking
+Recommend light exercise 5003,exercise_suggestion
+Recommend balanced diet 1988,diet_suggestion
+Help me travel to doctor clinic 9329,transport_booking
+I am feeling emotionally down 9652,emotional_support
+I missed my diabetes tablet 9953,medication_reminder
+I want to schedule a health checkup 4235,doctor_booking
+How can I stay active 9476,exercise_suggestion
+Suggest soft food for elderly 4671,diet_suggestion
+Can you book cab for hospital 9420,transport_booking
+I feel depressed today 6717,emotional_support
+When should I take insulin 282,medication_reminder
+Can you help me visit a doctor 2394,doctor_booking
+Suggest walking exercises 783,exercise_suggestion
+Recommend balanced diet 5378,diet_suggestion
+Help me travel to doctor clinic 2103,transport_booking
+I am feeling emotionally down 7816,emotional_support
+I missed my diabetes tablet 9431,medication_reminder
+Doctor appointment book koro 1635,doctor_booking
+Suggest walking exercises 2584,exercise_suggestion
+What should I eat for good health 131,diet_suggestion
+I need help reaching hospital 2115,transport_booking
+Nobody talks to me anymore 2840,emotional_support
+I forgot my blood pressure medicine 7844,medication_reminder
+Book doctor appointment for me 7847,doctor_booking
+Exercise suggest koro 4938,exercise_suggestion
+How can I improve nutrition 5698,diet_suggestion
+Can you book cab for hospital 4704,transport_booking
+I feel mentally exhausted 6071,emotional_support
+Medicine khete bhule gechi 7744,medication_reminder
+Can you help me visit a doctor 2059,doctor_booking
+Suggest yoga for elderly 4005,exercise_suggestion
+Suggest healthy food for elderly 704,diet_suggestion
+Transport arrange koro 4558,transport_booking
+I feel helpless today 7092,emotional_support
+When should I take insulin 6251,medication_reminder
+I need a doctor consultation 2432,doctor_booking
+How can I improve mobility 3661,exercise_suggestion
+Recommend balanced diet 895,diet_suggestion
+Book transport for hospital visit 2318,transport_booking
+I feel emotionally broken 1748,emotional_support
+Please remind me about medicines 1881,medication_reminder
+I want to schedule a health checkup 7561,doctor_booking
+Exercise suggest koro 6447,exercise_suggestion
+Mujhe healthy diet chahiye 8664,diet_suggestion
+Help me travel to doctor clinic 3119,transport_booking
+I cannot sleep because of stress 9542,emotional_support
+Medicine khete bhule gechi 7723,medication_reminder
+Book doctor appointment for me 9100,doctor_booking
+Mujhe exercise suggest karo 1293,exercise_suggestion
+Recommend balanced diet 9986,diet_suggestion
+Can you book cab for hospital 1127,transport_booking
+I feel depressed today 5907,emotional_support
+Please remind me to take my pills 4889,medication_reminder
+I want to schedule a health checkup 4250,doctor_booking
+Exercise suggest koro 6498,exercise_suggestion
+What foods improve energy 3626,diet_suggestion
+I need transport assistance 1188,transport_booking
+I feel sad and alone 8881,emotional_support
+Please remind me to take my pills 6079,medication_reminder
+Book doctor appointment for me 3354,doctor_booking
+How can I stay active 3008,exercise_suggestion
+Suggest diabetic diet 6675,diet_suggestion
+Help me arrange transportation 2224,transport_booking
+Nobody talks to me anymore 4075,emotional_support
+I missed my diabetes tablet 5080,medication_reminder
+Please help me contact a doctor 4797,doctor_booking
+Can elderly people do stretching 4344,exercise_suggestion
+What foods improve energy 3407,diet_suggestion
+I need transport assistance 307,transport_booking
+I feel scared about my condition 3801,emotional_support
+I forgot to take my tablets 9494,medication_reminder
+I need medical consultation 8265,doctor_booking
+Mujhe exercise suggest karo 8852,exercise_suggestion
+Suggest healthy food for elderly 536,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 2308,transport_booking
+I feel helpless today 4598,emotional_support
+Mujhe medicine lena yaad dilao 9545,medication_reminder
+Book doctor appointment for me 2507,doctor_booking
+Recommend light exercise 7984,exercise_suggestion
+Suggest soft food for elderly 4687,diet_suggestion
+I need transport assistance 7632,transport_booking
+I feel depressed today 3086,emotional_support
+Remind me to take my medicine 4950,medication_reminder
+I want to schedule a health checkup 5219,doctor_booking
+Suggest yoga for elderly 2543,exercise_suggestion
+Suggest diabetic diet 8792,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 769,transport_booking
+I feel anxious about my health 2654,emotional_support
+Please remind me to take my pills 9987,medication_reminder
+Doctor appointment book koro 6917,doctor_booking
+Mujhe exercise suggest karo 5544,exercise_suggestion
+Recommend nutrition plan 7348,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 2613,transport_booking
+I feel isolated 3294,emotional_support
+Please remind me about medicines 8525,medication_reminder
+Can you help me visit a doctor 3831,doctor_booking
+Suggest yoga for elderly 2234,exercise_suggestion
+Suggest healthy food for elderly 2203,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 6575,transport_booking
+I feel helpless today 1767,emotional_support
+I missed my diabetes tablet 3350,medication_reminder
+Book doctor appointment for me 3764,doctor_booking
+Suggest yoga for elderly 3596,exercise_suggestion
+Suggest diabetic diet 4156,diet_suggestion
+Help me travel to doctor clinic 7676,transport_booking
+I feel ignored by everyone 1110,emotional_support
+I forgot my blood pressure medicine 7009,medication_reminder
+Please help me contact a doctor 5984,doctor_booking
+Suggest yoga for elderly 7169,exercise_suggestion
+What foods improve energy 2327,diet_suggestion
+I need help reaching hospital 9989,transport_booking
+I am feeling emotionally down 5692,emotional_support
+Medicine khete bhule gechi 4082,medication_reminder
+Book doctor appointment for me 2844,doctor_booking
+How can I stay active 6066,exercise_suggestion
+Suggest diabetic diet 919,diet_suggestion
+I need transport assistance 2836,transport_booking
+I feel sad and alone 9531,emotional_support
+Please remind me to take my pills 4233,medication_reminder
+Please help me contact a doctor 2796,doctor_booking
+Suggest walking exercises 476,exercise_suggestion
+Suggest diabetic diet 4438,diet_suggestion
+Help me arrange transportation 765,transport_booking
+I feel mentally stressed 8851,emotional_support
+When should I take insulin 7512,medication_reminder
+I need a doctor consultation 9528,doctor_booking
+Suggest yoga for elderly 1489,exercise_suggestion
+Suggest soft food for elderly 2672,diet_suggestion
+Help me arrange transportation 2170,transport_booking
+I feel scared about my condition 854,emotional_support
+Medicine khete bhule gechi 959,medication_reminder
+Please help me contact a doctor 6777,doctor_booking
+How can I stay active 8954,exercise_suggestion
+Suggest soft food for elderly 1665,diet_suggestion
+I need help reaching hospital 8114,transport_booking
+I cannot sleep because of stress 4268,emotional_support
+Mujhe medicine lena yaad dilao 1735,medication_reminder
+Can you help me visit a doctor 4321,doctor_booking
+Suggest yoga for elderly 6330,exercise_suggestion
+Mujhe healthy diet chahiye 8874,diet_suggestion
+Can you book cab for hospital 8796,transport_booking
+I feel ignored by everyone 2525,emotional_support
+I forgot to take my tablets 2431,medication_reminder
+Mujhe doctor appointment chahiye 8287,doctor_booking
+Recommend light exercise 2948,exercise_suggestion
+Recommend nutrition plan 5189,diet_suggestion
+Book transport for hospital visit 9584,transport_booking
+I cannot sleep because of stress 6313,emotional_support
+Mujhe medicine lena yaad dilao 8746,medication_reminder
+Doctor appointment book koro 4174,doctor_booking
+Recommend simple exercise for me 2416,exercise_suggestion
+Suggest diabetic diet 7954,diet_suggestion
+Can you book cab for hospital 3075,transport_booking
+I feel ignored by everyone 9395,emotional_support
+I forgot my blood pressure medicine 3053,medication_reminder
+I need a doctor consultation 2130,doctor_booking
+Recommend light exercise 1409,exercise_suggestion
+Suggest healthy food for elderly 1954,diet_suggestion
+I need help reaching hospital 8414,transport_booking
+Nobody talks to me anymore 3862,emotional_support
+Medicine khete bhule gechi 9058,medication_reminder
+I need medical consultation 820,doctor_booking
+Recommend light exercise 7446,exercise_suggestion
+Suggest healthy food for elderly 7942,diet_suggestion
+Transport arrange koro 591,transport_booking
+I feel sad and alone 9802,emotional_support
+Please remind me about medicines 5776,medication_reminder
+I need a doctor consultation 9630,doctor_booking
+How can I improve mobility 4126,exercise_suggestion
+Mujhe healthy diet chahiye 2920,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 1793,transport_booking
+I feel very unhappy today 1672,emotional_support
+Please remind me about medicines 2876,medication_reminder
+Can you help me visit a doctor 8065,doctor_booking
+Mujhe exercise suggest karo 4171,exercise_suggestion
+Suggest diabetic diet 3610,diet_suggestion
+I need help reaching hospital 2979,transport_booking
+I feel anxious about my health 352,emotional_support
+Medicine khete bhule gechi 4740,medication_reminder
+Can you help me visit a doctor 2365,doctor_booking
+Recommend light exercise 6156,exercise_suggestion
+Recommend nutrition plan 6175,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 4271,transport_booking
+I feel helpless today 6267,emotional_support
+I missed my diabetes tablet 3200,medication_reminder
+Book doctor appointment for me 8841,doctor_booking
+Suggest walking exercises 3316,exercise_suggestion
+Healthy khabar suggest koro 4824,diet_suggestion
+Transport arrange koro 7256,transport_booking
+I feel lonely today 4993,emotional_support
+Please remind me to take my pills 8497,medication_reminder
+Please help me contact a doctor 8333,doctor_booking
+How can I improve mobility 9505,exercise_suggestion
+Mujhe healthy diet chahiye 193,diet_suggestion
+Transport arrange koro 7613,transport_booking
+I feel lonely today 2724,emotional_support
+Remind me to take my medicine 6131,medication_reminder
+I need medical consultation 8315,doctor_booking
+Exercise suggest koro 1170,exercise_suggestion
+Recommend balanced diet 5132,diet_suggestion
+Can you book cab for hospital 7344,transport_booking
+I feel very unhappy today 4217,emotional_support
+I need medicine reminder support 2977,medication_reminder
+I need medical consultation 6999,doctor_booking
+Suggest walking exercises 2621,exercise_suggestion
+Recommend balanced diet 5187,diet_suggestion
+Help me travel to doctor clinic 3821,transport_booking
+I feel depressed today 3031,emotional_support
+I forgot to take my tablets 8160,medication_reminder
+Please help me contact a doctor 5225,doctor_booking
+Can elderly people do stretching 2622,exercise_suggestion
+Mujhe healthy diet chahiye 9294,diet_suggestion
+Help me arrange transportation 288,transport_booking
+I feel mentally exhausted 1320,emotional_support
+Mujhe medicine lena yaad dilao 5723,medication_reminder
+I need a doctor consultation 2323,doctor_booking
+How can I improve mobility 2193,exercise_suggestion
+Suggest healthy food for elderly 6044,diet_suggestion
+Help me arrange transportation 2473,transport_booking
+I feel helpless today 4684,emotional_support
+I forgot my blood pressure medicine 1169,medication_reminder
+Mujhe doctor appointment chahiye 6726,doctor_booking
+Suggest walking exercises 689,exercise_suggestion
+Recommend nutrition plan 9690,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 5175,transport_booking
+I feel helpless today 6591,emotional_support
+I missed my diabetes tablet 7142,medication_reminder
+I want to schedule a health checkup 7591,doctor_booking
+Can elderly people do stretching 6695,exercise_suggestion
+Recommend nutrition plan 4861,diet_suggestion
+Help me arrange transportation 701,transport_booking
+I feel mentally exhausted 6177,emotional_support
+I forgot my blood pressure medicine 5493,medication_reminder
+Doctor appointment book koro 8428,doctor_booking
+Suggest yoga for elderly 9032,exercise_suggestion
+Mujhe healthy diet chahiye 1591,diet_suggestion
+Can you book cab for hospital 3355,transport_booking
+I feel emotionally weak 3655,emotional_support
+Please remind me to take my pills 663,medication_reminder
+Book doctor appointment for me 4467,doctor_booking
+How can I improve mobility 8757,exercise_suggestion
+Suggest diabetic diet 2573,diet_suggestion
+I need transport assistance 1372,transport_booking
+I feel anxious about my health 2488,emotional_support
+I forgot my blood pressure medicine 2833,medication_reminder
+I need a doctor consultation 6097,doctor_booking
+How can I stay active 8379,exercise_suggestion
+What should I eat for good health 6103,diet_suggestion
+Help me arrange transportation 7135,transport_booking
+I feel nervous and anxious 6835,emotional_support
+Please remind me to take my pills 8184,medication_reminder
+I need medical consultation 4882,doctor_booking
+Suggest yoga for elderly 1704,exercise_suggestion
+Recommend balanced diet 1798,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 4295,transport_booking
+I feel nervous and anxious 8803,emotional_support
+Remind me to take my medicine 6381,medication_reminder
+Doctor appointment book koro 5007,doctor_booking
+Can elderly people do stretching 16,exercise_suggestion
+Suggest healthy food for elderly 6362,diet_suggestion
+Help me arrange transportation 9340,transport_booking
+I feel worried about my future 8157,emotional_support
+I forgot to take my tablets 8593,medication_reminder
+Please help me contact a doctor 4007,doctor_booking
+Exercise suggest koro 8533,exercise_suggestion
+Mujhe healthy diet chahiye 6353,diet_suggestion
+Help me travel to doctor clinic 4617,transport_booking
+I need someone to talk to 5093,emotional_support
+I forgot my blood pressure medicine 9762,medication_reminder
+I need medical consultation 2119,doctor_booking
+Suggest walking exercises 4853,exercise_suggestion
+Recommend nutrition plan 1832,diet_suggestion
+Help me arrange transportation 7146,transport_booking
+I feel mentally stressed 2934,emotional_support
+I forgot my blood pressure medicine 3168,medication_reminder
+Can you help me visit a doctor 281,doctor_booking
+How can I stay active 1048,exercise_suggestion
+Suggest healthy food for elderly 4659,diet_suggestion
+Help me arrange transportation 4145,transport_booking
+I feel nervous and anxious 3555,emotional_support
+I forgot my blood pressure medicine 4611,medication_reminder
+Please help me contact a doctor 8374,doctor_booking
+How can I improve mobility 1834,exercise_suggestion
+What should I eat for good health 7718,diet_suggestion
+I need help reaching hospital 2514,transport_booking
+I feel mentally exhausted 9636,emotional_support
+I need medicine reminder support 9734,medication_reminder
+Doctor appointment book koro 9427,doctor_booking
+Recommend simple exercise for me 1582,exercise_suggestion
+Recommend nutrition plan 8417,diet_suggestion
+Can you book cab for hospital 1817,transport_booking
+I feel nervous and anxious 327,emotional_support
+Remind me to take my medicine 3594,medication_reminder
+I need medical consultation 6919,doctor_booking
+Mujhe exercise suggest karo 344,exercise_suggestion
+Recommend nutrition plan 35,diet_suggestion
+Book transport for hospital visit 89,transport_booking
+I feel emotionally broken 3223,emotional_support
+Please remind me about medicines 8835,medication_reminder
+Mujhe doctor appointment chahiye 3169,doctor_booking
+Recommend simple exercise for me 6489,exercise_suggestion
+Suggest diabetic diet 1579,diet_suggestion
+Book transport for hospital visit 5272,transport_booking
+Nobody talks to me anymore 5352,emotional_support
+Please remind me about medicines 4427,medication_reminder
+I want to schedule a health checkup 8675,doctor_booking
+Suggest walking exercises 9009,exercise_suggestion
+Suggest healthy food for elderly 5821,diet_suggestion
+Help me arrange transportation 6848,transport_booking
+I am feeling emotionally down 2801,emotional_support
+I need medicine reminder support 1024,medication_reminder
+Book doctor appointment for me 7391,doctor_booking
+Mujhe exercise suggest karo 8749,exercise_suggestion
+What foods improve energy 2688,diet_suggestion
+I need help reaching hospital 7146,transport_booking
+I feel sad and alone 3722,emotional_support
+Please remind me about medicines 9107,medication_reminder
+I want to schedule a health checkup 8219,doctor_booking
+How can I improve mobility 6314,exercise_suggestion
+Suggest diabetic diet 3515,diet_suggestion
+I need help reaching hospital 6677,transport_booking
+I miss my family 8285,emotional_support
+Medicine khete bhule gechi 1869,medication_reminder
+I need medical consultation 2901,doctor_booking
+Mujhe exercise suggest karo 7453,exercise_suggestion
+What should I eat for good health 4061,diet_suggestion
+Help me travel to doctor clinic 9047,transport_booking
+I feel scared about my condition 1781,emotional_support
+Remind me to take my medicine 1219,medication_reminder
+I want to schedule a health checkup 2541,doctor_booking
+Recommend simple exercise for me 2570,exercise_suggestion
+Suggest diabetic diet 3697,diet_suggestion
+Help me arrange transportation 1625,transport_booking
+I feel nervous and anxious 8325,emotional_support
+I missed my diabetes tablet 5724,medication_reminder
+Can you help me visit a doctor 7555,doctor_booking
+How can I improve mobility 1038,exercise_suggestion
+How can I improve nutrition 7814,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 325,transport_booking
+I need someone to talk to 7902,emotional_support
+I forgot to take my tablets 6319,medication_reminder
+I need a doctor consultation 712,doctor_booking
+Mujhe exercise suggest karo 6066,exercise_suggestion
+Recommend balanced diet 2737,diet_suggestion
+Book transport for hospital visit 8819,transport_booking
+I feel worried about my future 1646,emotional_support
+When should I take insulin 4053,medication_reminder
+I need a doctor consultation 2088,doctor_booking
+Suggest chair yoga for seniors 9941,exercise_suggestion
+Suggest soft food for elderly 6714,diet_suggestion
+I need transport assistance 7548,transport_booking
+I feel worried about my future 1814,emotional_support
+Medicine khete bhule gechi 9723,medication_reminder
+I need medical consultation 9496,doctor_booking
+Recommend simple exercise for me 4047,exercise_suggestion
+How can I improve nutrition 4898,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 8151,transport_booking
+I feel anxious about my health 273,emotional_support
+Please remind me about medicines 6403,medication_reminder
+I need medical consultation 6040,doctor_booking
+Mujhe exercise suggest karo 8747,exercise_suggestion
+What foods improve energy 2799,diet_suggestion
+Mujhe hospital jane ke liye cab chahiye 9417,transport_booking
+I feel emotionally weak 2267,emotional_support
+Medicine khete bhule gechi 7344,medication_reminder
+I want to schedule a health checkup 5048,doctor_booking
+How can I improve mobility 8311,exercise_suggestion
+Recommend balanced diet 9266,diet_suggestion
+Help me arrange transportation 5627,transport_booking
+I cannot sleep because of stress 3663,emotional_support
+I need medicine reminder support 4471,medication_reminder
+I need medical consultation 148,doctor_booking
+Suggest chair yoga for seniors 4881,exercise_suggestion
+Recommend nutrition plan 9492,diet_suggestion
+Book transport for hospital visit 7292,transport_booking
+I feel depressed today 7786,emotional_support
+Please remind me about medicines 6751,medication_reminder
+I need medical consultation 9671,doctor_booking
+How can I stay active 1032,exercise_suggestion
+Suggest soft food for elderly 9406,diet_suggestion
+Help me travel to doctor clinic 7937,transport_booking
+I feel lonely today 9215,emotional_support
+Remind me to take my medicine 9065,medication_reminder
