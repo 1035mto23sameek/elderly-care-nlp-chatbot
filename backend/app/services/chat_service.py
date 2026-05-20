@@ -103,7 +103,7 @@ def generate_response(
     elif predicted_intent == "medication_reminder":
 
         response = (
-            "Please remember to take your medicines on time."
+            "Please remember to take your medicines regularly and follow your doctor's recommendations carefully."
         )
 
     elif predicted_intent == "doctor_booking":
@@ -121,13 +121,13 @@ def generate_response(
     elif predicted_intent == "diet_suggestion":
 
         response = (
-            "I can suggest healthy nutrition plans for you."
+            "Healthy balanced meals with proper hydration and nutrition are important for maintaining elderly wellbeing."
         )
 
     elif predicted_intent == "exercise_suggestion":
 
         response = (
-            "Gentle exercises and yoga may help you stay active."
+            "Regular walking, chair yoga, and light stretching exercises may help improve mobility and overall wellbeing."
         )
 
     else:

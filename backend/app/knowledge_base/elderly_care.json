@@ -1,30 +1,42 @@
 [
     {
-        "topic": "loneliness",
-        "content": "Regular social interaction, music, light exercise, and family communication can help reduce loneliness in elderly individuals."
+        "topic": "lonely",
+        "content": "Regular conversations with family members, listening to music, social interaction, and light physical activities may help reduce loneliness."
     },
     {
         "topic": "stress",
-        "content": "Deep breathing exercises, meditation, calming music, and regular sleep can help reduce stress."
+        "content": "Deep breathing exercises, meditation, calming music, and maintaining healthy sleep routines may help reduce stress."
     },
     {
         "topic": "sleep",
-        "content": "Maintaining a fixed sleep schedule, reducing caffeine intake, and avoiding screens before bedtime may improve sleep quality."
+        "content": "Maintaining a fixed bedtime, reducing caffeine intake, and avoiding screens before sleeping may improve sleep quality."
     },
     {
         "topic": "exercise",
-        "content": "Walking, stretching, chair yoga, and light physical activity are beneficial for elderly health."
+        "content": "Walking, stretching, chair yoga, and light exercises are beneficial for elderly physical wellbeing."
     },
     {
-        "topic": "nutrition",
-        "content": "Balanced meals including fruits, vegetables, proteins, and hydration are important for elderly nutrition."
+        "topic": "diet",
+        "content": "Balanced nutrition including fruits, vegetables, proteins, hydration, and reduced sugar intake is important for elderly health."
     },
     {
-        "topic": "medication",
-        "content": "Medicines should be taken on time and according to doctor's instructions."
+        "topic": "medicine",
+        "content": "Medicines should always be taken according to doctor recommendations and at proper scheduled times."
     },
     {
-        "topic": "mental_health",
-        "content": "Talking with loved ones, engaging in hobbies, and seeking emotional support can improve mental wellbeing."
+        "topic": "diabetes",
+        "content": "Regular blood sugar monitoring, healthy diet, hydration, and timely medicines are important for diabetes management."
+    },
+    {
+        "topic": "blood pressure",
+        "content": "Low salt intake, regular medication, stress management, and moderate exercise may help control blood pressure."
+    },
+    {
+        "topic": "anxiety",
+        "content": "Talking with trusted people, breathing exercises, and emotional support may help reduce anxiety."
+    },
+    {
+        "topic": "sad",
+        "content": "Emotional wellbeing improves with social connection, hobbies, music, and supportive conversations."
     }
 ]
