@@ -19,8 +19,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-#API_URL = "http://localhost:8000/chat"
-API_URL = "https://elderly-care-nlp-chatbot-nv9xk3mkgwkrh2kqkhaeqe.streamlit.app/"
+API_URL = "http://localhost:8000/chat"
+#API_URL = "https://elderly-care-nlp-chatbot-nv9xk3mkgwkrh2kqkhaeqe.streamlit.app/"
 
 
 st.set_page_config(
@@ -61,7 +61,29 @@ if st.button("Send"):
             }
         )
 
-        data = response.json()
+        try:
+
+            response = requests.get(
+                API_URL,
+                params={
+                    "message": user_message,
+                    "session_id": session_id
+                }
+            )
+
+            st.write("STATUS:", response.status_code)
+
+            st.write("RAW RESPONSE:")
+
+            st.code(response.text)
+
+            data = response.json()
+
+        except Exception as e:
+
+            st.error(f"ERROR: {str(e)}")
+
+            st.stop()
 
         st.subheader("Chatbot Response")
 
